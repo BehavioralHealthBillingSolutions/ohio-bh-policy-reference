@@ -1,0 +1,907 @@
+{
+  "publication": "curated reference; incomplete agreements; link-only manuals",
+  "curated_at_utc": "2026-10-15T15:27:42.113388+00:00",
+  "source_reviewed_commit": "4c99564414558a1d64e2b58fdfd6e06171ddf4dd",
+  "preserved_sources": [
+    {
+      "path": "Managed Care Agreements/Excerpts/MCO_2026_07_EXCERPT.md",
+      "sha256": "372bf1704ca72bfa5e30190d8a5f40376a8cbbe78b7024400c33b22ff0f31ee7",
+      "source_url": "https://dam.assets.ohio.gov/image/upload/medicaid.ohio.gov/Providers/ProviderTypes/Managed%20Care/Provider%20Agreements/2026_07_MCO_Final_2.pdf",
+      "status": "incomplete agreement reference transcription"
+    },
+    {
+      "path": "Managed Care Agreements/Excerpts/MyCare_2026_01_EXCERPT.md",
+      "sha256": "16edb2247f164e876e2ebca148052a1b7743f83e34a2377b2c3638ce44e747ea",
+      "source_url": "https://dam.assets.ohio.gov/image/upload/medicaid.ohio.gov/Providers/ProviderTypes/Managed%20Care/MyCareOhio/2026_01_Next_Gen_MyCare_Final_PA.pdf",
+      "status": "incomplete agreement reference transcription"
+    },
+    {
+      "path": "Managed Care Agreements/Excerpts/OhioRISE_2026_07_EXCERPT.md",
+      "sha256": "a925e5fe867f2f7d85628c9ac94a68452d97da8ad44bdf0fa1b728050909bd2d",
+      "source_url": "https://dam.assets.ohio.gov/image/upload/managedcare.medicaid.ohio.gov/OhioRISE/2026_07_Final_OhioRISE_Provider_Agreement.pdf",
+      "status": "incomplete agreement reference transcription"
+    },
+    {
+      "path": "Ohio Rules/Comparisons/DBH_Service_Rules_2026-10-07/BIA_Narrative.md",
+      "sha256": "cd9f02b61284146a8999530529318531937c27adf3037748d5034838dc6b81e3",
+      "source_url": "https://dam.assets.ohio.gov/image/upload/mha.ohio.gov/AboutUs/RulesandRegulations/Rules/Draft-Rules/Service-Rules.pdf",
+      "status": "historical proposed-source snapshot"
+    },
+    {
+      "path": "Ohio Rules/Comparisons/DBH_Service_Rules_2026-10-07/current/5122-29-01.md",
+      "sha256": "d8c425c3244e54d85f7afa552ba28d7f2db6272db70ea18925ce2d1fd586843e",
+      "source_url": "https://dam.assets.ohio.gov/image/upload/mha.ohio.gov/AboutUs/RulesandRegulations/Rules/Draft-Rules/Service-Rules.pdf",
+      "status": "historical proposed-source snapshot"
+    },
+    {
+      "path": "Ohio Rules/Comparisons/DBH_Service_Rules_2026-10-07/current/5122-29-03.md",
+      "sha256": "da6459a7117bde890b92460a1d2667f36440c96039c4c080f5d6f23019be85ee",
+      "source_url": "https://dam.assets.ohio.gov/image/upload/mha.ohio.gov/AboutUs/RulesandRegulations/Rules/Draft-Rules/Service-Rules.pdf",
+      "status": "historical proposed-source snapshot"
+    },
+    {
+      "path": "Ohio Rules/Comparisons/DBH_Service_Rules_2026-10-07/current/5122-29-06.md",
+      "sha256": "cb4ae14aa0100b76319f579d842c3a24d74e719f8927295b89a5f73c6fc753b0",
+      "source_url": "https://dam.assets.ohio.gov/image/upload/mha.ohio.gov/AboutUs/RulesandRegulations/Rules/Draft-Rules/Service-Rules.pdf",
+      "status": "historical proposed-source snapshot"
+    },
+    {
+      "path": "Ohio Rules/Comparisons/DBH_Service_Rules_2026-10-07/current/5122-29-07.md",
+      "sha256": "f234204d79363e022080f231c9f3b5085fc8f2d6dd00b1d6ba5675588e630fca",
+      "source_url": "https://dam.assets.ohio.gov/image/upload/mha.ohio.gov/AboutUs/RulesandRegulations/Rules/Draft-Rules/Service-Rules.pdf",
+      "status": "historical proposed-source snapshot"
+    },
+    {
+      "path": "Ohio Rules/Comparisons/DBH_Service_Rules_2026-10-07/current/5122-29-08.md",
+      "sha256": "6d53d1ea4a74791a8ee2673dfecf9f3180432e5a334466966c213de76f992aa1",
+      "source_url": "https://dam.assets.ohio.gov/image/upload/mha.ohio.gov/AboutUs/RulesandRegulations/Rules/Draft-Rules/Service-Rules.pdf",
+      "status": "historical proposed-source snapshot"
+    },
+    {
+      "path": "Ohio Rules/Comparisons/DBH_Service_Rules_2026-10-07/current/5122-29-09.1.md",
+      "sha256": "94287fccebefcb28ddd044cfe198ca91e6c794ecbf148da0e0d0b33fcb9fe080",
+      "source_url": "https://dam.assets.ohio.gov/image/upload/mha.ohio.gov/AboutUs/RulesandRegulations/Rules/Draft-Rules/Service-Rules.pdf",
+      "status": "historical proposed-source snapshot"
+    },
+    {
+      "path": "Ohio Rules/Comparisons/DBH_Service_Rules_2026-10-07/current/5122-29-10.md",
+      "sha256": "e2595c34a560a26f56565f08a98f6d83bf90dd32167c89ba9d2c7d05609102f7",
+      "source_url": "https://dam.assets.ohio.gov/image/upload/mha.ohio.gov/AboutUs/RulesandRegulations/Rules/Draft-Rules/Service-Rules.pdf",
+      "status": "historical proposed-source snapshot"
+    },
+    {
+      "path": "Ohio Rules/Comparisons/DBH_Service_Rules_2026-10-07/current/5122-29-12.md",
+      "sha256": "64eb71e120dd3fc004d819052e7842e2703f2233e5c8e6a7533b808fe3f1b7d1",
+      "source_url": "https://dam.assets.ohio.gov/image/upload/mha.ohio.gov/AboutUs/RulesandRegulations/Rules/Draft-Rules/Service-Rules.pdf",
+      "status": "historical proposed-source snapshot"
+    },
+    {
+      "path": "Ohio Rules/Comparisons/DBH_Service_Rules_2026-10-07/current/5122-29-13.md",
+      "sha256": "fbc1f092403b8b0e6cf1f1042153b9d55f9a4839c97e31d4d399a64b4c7cc880",
+      "source_url": "https://dam.assets.ohio.gov/image/upload/mha.ohio.gov/AboutUs/RulesandRegulations/Rules/Draft-Rules/Service-Rules.pdf",
+      "status": "historical proposed-source snapshot"
+    },
+    {
+      "path": "Ohio Rules/Comparisons/DBH_Service_Rules_2026-10-07/current/5122-29-15.md",
+      "sha256": "c6760917281815999b0a004cb3a54aac28312227e1fcdfdee44902dcda673ac0",
+      "source_url": "https://dam.assets.ohio.gov/image/upload/mha.ohio.gov/AboutUs/RulesandRegulations/Rules/Draft-Rules/Service-Rules.pdf",
+      "status": "historical proposed-source snapshot"
+    },
+    {
+      "path": "Ohio Rules/Comparisons/DBH_Service_Rules_2026-10-07/current/5122-29-16.md",
+      "sha256": "411ee50627cace0b7c985750e0a1a0f5fd423ee763d718e6832bb524dd4155ec",
+      "source_url": "https://dam.assets.ohio.gov/image/upload/mha.ohio.gov/AboutUs/RulesandRegulations/Rules/Draft-Rules/Service-Rules.pdf",
+      "status": "historical proposed-source snapshot"
+    },
+    {
+      "path": "Ohio Rules/Comparisons/DBH_Service_Rules_2026-10-07/current/5122-29-17.md",
+      "sha256": "6a9af8e6a997e57c20eb66c3372f4e58bedae89f71f0487badcd10c546406cb0",
+      "source_url": "https://dam.assets.ohio.gov/image/upload/mha.ohio.gov/AboutUs/RulesandRegulations/Rules/Draft-Rules/Service-Rules.pdf",
+      "status": "historical proposed-source snapshot"
+    },
+    {
+      "path": "Ohio Rules/Comparisons/DBH_Service_Rules_2026-10-07/current/5122-29-18.md",
+      "sha256": "4c33a2295487874f2a4ee680415ceb72b53471dc7327bda5a6d712e2b3d05642",
+      "source_url": "https://dam.assets.ohio.gov/image/upload/mha.ohio.gov/AboutUs/RulesandRegulations/Rules/Draft-Rules/Service-Rules.pdf",
+      "status": "historical proposed-source snapshot"
+    },
+    {
+      "path": "Ohio Rules/Comparisons/DBH_Service_Rules_2026-10-07/current/5122-29-19.md",
+      "sha256": "c00e460caffb6c86fb643544eb0979ca7d7bdfcf80e8fdc059623a973d8d8ed4",
+      "source_url": "https://dam.assets.ohio.gov/image/upload/mha.ohio.gov/AboutUs/RulesandRegulations/Rules/Draft-Rules/Service-Rules.pdf",
+      "status": "historical proposed-source snapshot"
+    },
+    {
+      "path": "Ohio Rules/Comparisons/DBH_Service_Rules_2026-10-07/current/5122-29-22.md",
+      "sha256": "e7333cec3283d68532f91d00830d32ceb3b12fedf00abde60177fad7bf80f16e",
+      "source_url": "https://dam.assets.ohio.gov/image/upload/mha.ohio.gov/AboutUs/RulesandRegulations/Rules/Draft-Rules/Service-Rules.pdf",
+      "status": "historical proposed-source snapshot"
+    },
+    {
+      "path": "Ohio Rules/Comparisons/DBH_Service_Rules_2026-10-07/current/5122-29-27.md",
+      "sha256": "0f617debca7711b1a6846ea5a0a9c0c0c9fec9ef559756793b4a25e04508cbcb",
+      "source_url": "https://dam.assets.ohio.gov/image/upload/mha.ohio.gov/AboutUs/RulesandRegulations/Rules/Draft-Rules/Service-Rules.pdf",
+      "status": "historical proposed-source snapshot"
+    },
+    {
+      "path": "Ohio Rules/Comparisons/DBH_Service_Rules_2026-10-07/current/5122-29-28.md",
+      "sha256": "6bf7ac018fe8eb636f0c076fe5dafa8bc14266c529840352c52967073b545ea7",
+      "source_url": "https://dam.assets.ohio.gov/image/upload/mha.ohio.gov/AboutUs/RulesandRegulations/Rules/Draft-Rules/Service-Rules.pdf",
+      "status": "historical proposed-source snapshot"
+    },
+    {
+      "path": "Ohio Rules/Comparisons/DBH_Service_Rules_2026-10-07/current/5122-29-29.md",
+      "sha256": "2e6b86ea12fc8c16295e1dbbd08e229349cddcb406e4e4b28e407b6180f730f2",
+      "source_url": "https://dam.assets.ohio.gov/image/upload/mha.ohio.gov/AboutUs/RulesandRegulations/Rules/Draft-Rules/Service-Rules.pdf",
+      "status": "historical proposed-source snapshot"
+    },
+    {
+      "path": "Ohio Rules/Comparisons/DBH_Service_Rules_2026-10-07/proposed/5122-29-01.md",
+      "sha256": "b06e1d3c8b654c9655a1b5133bebc3e62fee9f52115d78edfad1d64572355ba1",
+      "source_url": "https://dam.assets.ohio.gov/image/upload/mha.ohio.gov/AboutUs/RulesandRegulations/Rules/Draft-Rules/Service-Rules.pdf",
+      "status": "historical proposed-source snapshot"
+    },
+    {
+      "path": "Ohio Rules/Comparisons/DBH_Service_Rules_2026-10-07/proposed/5122-29-03.md",
+      "sha256": "d679e575275783ac5b8be2e61c99e081ac168506a5d39452e3e9b51a3bedff98",
+      "source_url": "https://dam.assets.ohio.gov/image/upload/mha.ohio.gov/AboutUs/RulesandRegulations/Rules/Draft-Rules/Service-Rules.pdf",
+      "status": "historical proposed-source snapshot"
+    },
+    {
+      "path": "Ohio Rules/Comparisons/DBH_Service_Rules_2026-10-07/proposed/5122-29-06.md",
+      "sha256": "a8c03aa1decf31e2497cdba41262fcd84c784de2622dc4a4065d565efddad6df",
+      "source_url": "https://dam.assets.ohio.gov/image/upload/mha.ohio.gov/AboutUs/RulesandRegulations/Rules/Draft-Rules/Service-Rules.pdf",
+      "status": "historical proposed-source snapshot"
+    },
+    {
+      "path": "Ohio Rules/Comparisons/DBH_Service_Rules_2026-10-07/proposed/5122-29-07.md",
+      "sha256": "135be19b02d8f826776f83086992b9489495a7cff0dc69a7f732055bfbe6aa4c",
+      "source_url": "https://dam.assets.ohio.gov/image/upload/mha.ohio.gov/AboutUs/RulesandRegulations/Rules/Draft-Rules/Service-Rules.pdf",
+      "status": "historical proposed-source snapshot"
+    },
+    {
+      "path": "Ohio Rules/Comparisons/DBH_Service_Rules_2026-10-07/proposed/5122-29-08.md",
+      "sha256": "418cf6e1c6086e6818a7546144ee5a42f6a6bdcc7b687ebb9f2febe3359bc4b7",
+      "source_url": "https://dam.assets.ohio.gov/image/upload/mha.ohio.gov/AboutUs/RulesandRegulations/Rules/Draft-Rules/Service-Rules.pdf",
+      "status": "historical proposed-source snapshot"
+    },
+    {
+      "path": "Ohio Rules/Comparisons/DBH_Service_Rules_2026-10-07/proposed/5122-29-09.1.md",
+      "sha256": "7bc749bc874e090b3be275981937dcbacd5c2cc2d234da1944e0eccdafe1ef16",
+      "source_url": "https://dam.assets.ohio.gov/image/upload/mha.ohio.gov/AboutUs/RulesandRegulations/Rules/Draft-Rules/Service-Rules.pdf",
+      "status": "historical proposed-source snapshot"
+    },
+    {
+      "path": "Ohio Rules/Comparisons/DBH_Service_Rules_2026-10-07/proposed/5122-29-10.md",
+      "sha256": "04caff722e9417cb3be5a255c4e72e632c101ee7259d7a9994991c3402ebeee3",
+      "source_url": "https://dam.assets.ohio.gov/image/upload/mha.ohio.gov/AboutUs/RulesandRegulations/Rules/Draft-Rules/Service-Rules.pdf",
+      "status": "historical proposed-source snapshot"
+    },
+    {
+      "path": "Ohio Rules/Comparisons/DBH_Service_Rules_2026-10-07/proposed/5122-29-12.md",
+      "sha256": "38c74968bf53e7781173d48b7cfaee25150ff44cb7eb243324561b12db2a9fec",
+      "source_url": "https://dam.assets.ohio.gov/image/upload/mha.ohio.gov/AboutUs/RulesandRegulations/Rules/Draft-Rules/Service-Rules.pdf",
+      "status": "historical proposed-source snapshot"
+    },
+    {
+      "path": "Ohio Rules/Comparisons/DBH_Service_Rules_2026-10-07/proposed/5122-29-13.md",
+      "sha256": "3204a309bf9d50aab846c05a77d049ba3d3c8e902162526ad2fa8dfec3dba110",
+      "source_url": "https://dam.assets.ohio.gov/image/upload/mha.ohio.gov/AboutUs/RulesandRegulations/Rules/Draft-Rules/Service-Rules.pdf",
+      "status": "historical proposed-source snapshot"
+    },
+    {
+      "path": "Ohio Rules/Comparisons/DBH_Service_Rules_2026-10-07/proposed/5122-29-15.md",
+      "sha256": "1915c824f9065e8b8714953bb8baa902a26aa7853064f51996729e3fa855ea47",
+      "source_url": "https://dam.assets.ohio.gov/image/upload/mha.ohio.gov/AboutUs/RulesandRegulations/Rules/Draft-Rules/Service-Rules.pdf",
+      "status": "historical proposed-source snapshot"
+    },
+    {
+      "path": "Ohio Rules/Comparisons/DBH_Service_Rules_2026-10-07/proposed/5122-29-16.md",
+      "sha256": "ceb583c6b29b269b41c3249a2db6bd9fd86a4c67fedf09bbb77917cc530f5174",
+      "source_url": "https://dam.assets.ohio.gov/image/upload/mha.ohio.gov/AboutUs/RulesandRegulations/Rules/Draft-Rules/Service-Rules.pdf",
+      "status": "historical proposed-source snapshot"
+    },
+    {
+      "path": "Ohio Rules/Comparisons/DBH_Service_Rules_2026-10-07/proposed/5122-29-17.md",
+      "sha256": "66b22e65708ce3bf7aacc6e28a66208721790b521bab458c4037f59de34c7bfe",
+      "source_url": "https://dam.assets.ohio.gov/image/upload/mha.ohio.gov/AboutUs/RulesandRegulations/Rules/Draft-Rules/Service-Rules.pdf",
+      "status": "historical proposed-source snapshot"
+    },
+    {
+      "path": "Ohio Rules/Comparisons/DBH_Service_Rules_2026-10-07/proposed/5122-29-18.md",
+      "sha256": "5ba6c1d895f720c58ae3ef2a254e82349e8d63de8fe37dbe3baff8ba17e59a08",
+      "source_url": "https://dam.assets.ohio.gov/image/upload/mha.ohio.gov/AboutUs/RulesandRegulations/Rules/Draft-Rules/Service-Rules.pdf",
+      "status": "historical proposed-source snapshot"
+    },
+    {
+      "path": "Ohio Rules/Comparisons/DBH_Service_Rules_2026-10-07/proposed/5122-29-19.md",
+      "sha256": "4d26960949718f3bfa9f095d89ca170c4a9ba29322b2aa5a53e1ac014717e709",
+      "source_url": "https://dam.assets.ohio.gov/image/upload/mha.ohio.gov/AboutUs/RulesandRegulations/Rules/Draft-Rules/Service-Rules.pdf",
+      "status": "historical proposed-source snapshot"
+    },
+    {
+      "path": "Ohio Rules/Comparisons/DBH_Service_Rules_2026-10-07/proposed/5122-29-22.md",
+      "sha256": "165b9ac2fce575d5a901ed439c3484a45bc2921ce3111e4d64baa4d7a656f405",
+      "source_url": "https://dam.assets.ohio.gov/image/upload/mha.ohio.gov/AboutUs/RulesandRegulations/Rules/Draft-Rules/Service-Rules.pdf",
+      "status": "historical proposed-source snapshot"
+    },
+    {
+      "path": "Ohio Rules/Comparisons/DBH_Service_Rules_2026-10-07/proposed/5122-29-27.md",
+      "sha256": "cea2ec0b8f74952ca4c3881f64238a2740d49e9f1e24f15d397905f66de2a624",
+      "source_url": "https://dam.assets.ohio.gov/image/upload/mha.ohio.gov/AboutUs/RulesandRegulations/Rules/Draft-Rules/Service-Rules.pdf",
+      "status": "historical proposed-source snapshot"
+    },
+    {
+      "path": "Ohio Rules/Comparisons/DBH_Service_Rules_2026-10-07/proposed/5122-29-28.md",
+      "sha256": "eb625bddc5a6e299f41c72d3efcbe0e6d57bc6270756e5a3e3bbe6cf849cb5f6",
+      "source_url": "https://dam.assets.ohio.gov/image/upload/mha.ohio.gov/AboutUs/RulesandRegulations/Rules/Draft-Rules/Service-Rules.pdf",
+      "status": "historical proposed-source snapshot"
+    },
+    {
+      "path": "Ohio Rules/Comparisons/DBH_Service_Rules_2026-10-07/proposed/5122-29-29.md",
+      "sha256": "f45089b538ca696b76aaa6c3ae8687e9be816ed7658b0b3cdce994536427a192",
+      "source_url": "https://dam.assets.ohio.gov/image/upload/mha.ohio.gov/AboutUs/RulesandRegulations/Rules/Draft-Rules/Service-Rules.pdf",
+      "status": "historical proposed-source snapshot"
+    },
+    {
+      "path": "Ohio Rules/Comparisons/ERF236150_2026-10-05/BIA_Narrative_2026-10-05.md",
+      "sha256": "c5f44e14b6c3fe45cb99fee24a9238fc4793d65fc116d9c48a5d85c3a4d21a7e",
+      "source_url": "https://dam.assets.ohio.gov/image/upload/medicaid.ohio.gov/Stakeholders%2C%20Partners/LegalandContracts/Rules/BIAERF236150.pdf",
+      "status": "historical proposed-source snapshot; stable URL may now return different bytes"
+    },
+    {
+      "path": "Ohio Rules/Comparisons/ERF236150_2026-10-05/current/5160-27-01.md",
+      "sha256": "70bd11710ea81f72138f4e404da39a34fe40a45850cb82261f8dd7f51abd1ef2",
+      "source_url": "https://dam.assets.ohio.gov/image/upload/medicaid.ohio.gov/Stakeholders%2C%20Partners/LegalandContracts/Rules/BIAERF236150.pdf",
+      "status": "historical proposed-source snapshot; stable URL may now return different bytes"
+    },
+    {
+      "path": "Ohio Rules/Comparisons/ERF236150_2026-10-05/current/5160-27-02.md",
+      "sha256": "956d90e058d50e8f0a2f78e53dfe7ac0fd87b39337f53253b0214c1610ca90f3",
+      "source_url": "https://dam.assets.ohio.gov/image/upload/medicaid.ohio.gov/Stakeholders%2C%20Partners/LegalandContracts/Rules/BIAERF236150.pdf",
+      "status": "historical proposed-source snapshot; stable URL may now return different bytes"
+    },
+    {
+      "path": "Ohio Rules/Comparisons/ERF236150_2026-10-05/current/5160-27-04.md",
+      "sha256": "08ee5a5cd62249c85a3123da059bdae50facc3b1ac0f4548a953901731ae128c",
+      "source_url": "https://dam.assets.ohio.gov/image/upload/medicaid.ohio.gov/Stakeholders%2C%20Partners/LegalandContracts/Rules/BIAERF236150.pdf",
+      "status": "historical proposed-source snapshot; stable URL may now return different bytes"
+    },
+    {
+      "path": "Ohio Rules/Comparisons/ERF236150_2026-10-05/current/5160-27-06.md",
+      "sha256": "d8241ceb956c0a6c110dd2b021710572b54a40215bd4d75a95c929a0faac0a4d",
+      "source_url": "https://dam.assets.ohio.gov/image/upload/medicaid.ohio.gov/Stakeholders%2C%20Partners/LegalandContracts/Rules/BIAERF236150.pdf",
+      "status": "historical proposed-source snapshot; stable URL may now return different bytes"
+    },
+    {
+      "path": "Ohio Rules/Comparisons/ERF236150_2026-10-05/current/5160-27-08.md",
+      "sha256": "5bcc4851bd0015b60916946f1ecd29944736c72de9d7104373ae3e4aba068352",
+      "source_url": "https://dam.assets.ohio.gov/image/upload/medicaid.ohio.gov/Stakeholders%2C%20Partners/LegalandContracts/Rules/BIAERF236150.pdf",
+      "status": "historical proposed-source snapshot; stable URL may now return different bytes"
+    },
+    {
+      "path": "Ohio Rules/Comparisons/ERF236150_2026-10-05/current/5160-27-09.md",
+      "sha256": "18f1fdf60f16f43ce536cb1136b14ad0dbd195ad8199358397474b108d29bd90",
+      "source_url": "https://dam.assets.ohio.gov/image/upload/medicaid.ohio.gov/Stakeholders%2C%20Partners/LegalandContracts/Rules/BIAERF236150.pdf",
+      "status": "historical proposed-source snapshot; stable URL may now return different bytes"
+    },
+    {
+      "path": "Ohio Rules/Comparisons/ERF236150_2026-10-05/current/5160-27-10.md",
+      "sha256": "f1f20c5da0f7336d34a1a3651de2ef0e0843a6208c50e6bfcdf6b4069db047ad",
+      "source_url": "https://dam.assets.ohio.gov/image/upload/medicaid.ohio.gov/Stakeholders%2C%20Partners/LegalandContracts/Rules/BIAERF236150.pdf",
+      "status": "historical proposed-source snapshot; stable URL may now return different bytes"
+    },
+    {
+      "path": "Ohio Rules/Comparisons/ERF236150_2026-10-05/current/5160-27-14.md",
+      "sha256": "5f44b8f5fedb84523b01be544508033dabf2cfefda039cd993ca0a455337367a",
+      "source_url": "https://dam.assets.ohio.gov/image/upload/medicaid.ohio.gov/Stakeholders%2C%20Partners/LegalandContracts/Rules/BIAERF236150.pdf",
+      "status": "historical proposed-source snapshot; stable URL may now return different bytes"
+    },
+    {
+      "path": "Ohio Rules/Comparisons/ERF236150_2026-10-05/current/5160-8-05.md",
+      "sha256": "23d85d2d95c65d7e4c3ad0b810a2f20fc3624a2157682ef6752d94e6054e44e4",
+      "source_url": "https://dam.assets.ohio.gov/image/upload/medicaid.ohio.gov/Stakeholders%2C%20Partners/LegalandContracts/Rules/BIAERF236150.pdf",
+      "status": "historical proposed-source snapshot; stable URL may now return different bytes"
+    },
+    {
+      "path": "Ohio Rules/Comparisons/ERF236150_2026-10-05/proposed/5160-27-01.md",
+      "sha256": "aee39c4dc5a69bc3de0029c9d29c0e96f51294c2d16bcf8e6cb202df753ba4cb",
+      "source_url": "https://dam.assets.ohio.gov/image/upload/medicaid.ohio.gov/Stakeholders%2C%20Partners/LegalandContracts/Rules/BIAERF236150.pdf",
+      "status": "historical proposed-source snapshot; stable URL may now return different bytes"
+    },
+    {
+      "path": "Ohio Rules/Comparisons/ERF236150_2026-10-05/proposed/5160-27-02.md",
+      "sha256": "f298290ecd04f25222d08a01876cf1ea673cb928c717af01759fd7a112b45b77",
+      "source_url": "https://dam.assets.ohio.gov/image/upload/medicaid.ohio.gov/Stakeholders%2C%20Partners/LegalandContracts/Rules/BIAERF236150.pdf",
+      "status": "historical proposed-source snapshot; stable URL may now return different bytes"
+    },
+    {
+      "path": "Ohio Rules/Comparisons/ERF236150_2026-10-05/proposed/5160-27-04.md",
+      "sha256": "77fe29e0e6d33bea9601556e128a6f1e3addbd8ab77acea396af60ebbd654d2b",
+      "source_url": "https://dam.assets.ohio.gov/image/upload/medicaid.ohio.gov/Stakeholders%2C%20Partners/LegalandContracts/Rules/BIAERF236150.pdf",
+      "status": "historical proposed-source snapshot; stable URL may now return different bytes"
+    },
+    {
+      "path": "Ohio Rules/Comparisons/ERF236150_2026-10-05/proposed/5160-27-06.md",
+      "sha256": "651b5c1390262f058e46289d9c4dc9da6d84cb951b47d19b571039b3c545e4c2",
+      "source_url": "https://dam.assets.ohio.gov/image/upload/medicaid.ohio.gov/Stakeholders%2C%20Partners/LegalandContracts/Rules/BIAERF236150.pdf",
+      "status": "historical proposed-source snapshot; stable URL may now return different bytes"
+    },
+    {
+      "path": "Ohio Rules/Comparisons/ERF236150_2026-10-05/proposed/5160-27-08.md",
+      "sha256": "82aaaf420fa24761d1280f0e73a9189f7743fe6aeac241141f4e853a4b449771",
+      "source_url": "https://dam.assets.ohio.gov/image/upload/medicaid.ohio.gov/Stakeholders%2C%20Partners/LegalandContracts/Rules/BIAERF236150.pdf",
+      "status": "historical proposed-source snapshot; stable URL may now return different bytes"
+    },
+    {
+      "path": "Ohio Rules/Comparisons/ERF236150_2026-10-05/proposed/5160-27-09.md",
+      "sha256": "caf2c0a4fd95198f2d1cc1b91f3add1a80dd9fb1d6f7be8d78365a346342b94c",
+      "source_url": "https://dam.assets.ohio.gov/image/upload/medicaid.ohio.gov/Stakeholders%2C%20Partners/LegalandContracts/Rules/BIAERF236150.pdf",
+      "status": "historical proposed-source snapshot; stable URL may now return different bytes"
+    },
+    {
+      "path": "Ohio Rules/Comparisons/ERF236150_2026-10-05/proposed/5160-27-10.md",
+      "sha256": "4b7bb9f1466f06d57163a727d6fd15f54bb6f54b04703e9847789320dae87f5f",
+      "source_url": "https://dam.assets.ohio.gov/image/upload/medicaid.ohio.gov/Stakeholders%2C%20Partners/LegalandContracts/Rules/BIAERF236150.pdf",
+      "status": "historical proposed-source snapshot; stable URL may now return different bytes"
+    },
+    {
+      "path": "Ohio Rules/Comparisons/ERF236150_2026-10-05/proposed/5160-27-14.md",
+      "sha256": "94de6922aafaaeaa7a6f61c484f5e59d2229b2e3b4c0c4ca763d0d27dbde40a1",
+      "source_url": "https://dam.assets.ohio.gov/image/upload/medicaid.ohio.gov/Stakeholders%2C%20Partners/LegalandContracts/Rules/BIAERF236150.pdf",
+      "status": "historical proposed-source snapshot; stable URL may now return different bytes"
+    },
+    {
+      "path": "Ohio Rules/Comparisons/ERF236150_2026-10-05/proposed/5160-8-05.md",
+      "sha256": "96f919a8bd6d1b77129596125efdac55cfa425d86154143144f058a981719be0",
+      "source_url": "https://dam.assets.ohio.gov/image/upload/medicaid.ohio.gov/Stakeholders%2C%20Partners/LegalandContracts/Rules/BIAERF236150.pdf",
+      "status": "historical proposed-source snapshot; stable URL may now return different bytes"
+    },
+    {
+      "path": "Reference MD Files/All Historical and Current/DBH/2026-10-08/OAC_Chapter_5122-29.md",
+      "sha256": "4058d29abcc5a244ae2cee9edf35529e527c5d1236c6ad0d2ca5769a9b47efbd",
+      "source_url": "https://dam.assets.ohio.gov/image/upload/mha.ohio.gov/AboutUs/RulesandRegulations/Rules/Draft-Rules/Service-Rules.pdf",
+      "status": "historical proposed-source snapshot"
+    },
+    {
+      "path": "Reference MD Files/All Historical and Current/DBH/2026-10-08/Source_Manifest.json",
+      "sha256": "b8fc98db30752788edb6a073b345edeebbe5f7da6ddb817355d73ef0105289e7",
+      "source_url": "https://dam.assets.ohio.gov/image/upload/mha.ohio.gov/AboutUs/RulesandRegulations/Rules/Draft-Rules/Service-Rules.pdf",
+      "status": "historical proposed-source snapshot"
+    },
+    {
+      "path": "Reference MD Files/All Historical and Current/DBH/2026-10-08/pdf/BIA-Service-Rules.pdf",
+      "sha256": "bd0d223eef71e178f0e98f848faccdb59d7f89f967c74a09edb298daf8f3107c",
+      "source_url": "https://dam.assets.ohio.gov/image/upload/mha.ohio.gov/AboutUs/RulesandRegulations/Rules/Draft-Rules/BIA-Service-Rules.pdf",
+      "status": "historical proposed-source snapshot"
+    },
+    {
+      "path": "Reference MD Files/All Historical and Current/DBH/2026-10-08/pdf/Service-Rules.pdf",
+      "sha256": "c696ca906efe58cbf7a55c826429f4d4179f39f8ff7e5cf03ac0b81ade8b868d",
+      "source_url": "https://dam.assets.ohio.gov/image/upload/mha.ohio.gov/AboutUs/RulesandRegulations/Rules/Draft-Rules/Service-Rules.pdf",
+      "status": "historical proposed-source snapshot"
+    },
+    {
+      "path": "Reference MD Files/All Historical and Current/DBH/2026-10-09/Source_Manifest.json",
+      "sha256": "67a01551e6bbebdc3322fa35a1b0fadf315fe9f9b7f0e54debc4b938369d0cdf",
+      "source_url": "https://dam.assets.ohio.gov/image/upload/mha.ohio.gov/AboutUs/RulesandRegulations/Rules/Draft-Rules/Service-Rules.pdf",
+      "status": "historical proposed-source snapshot"
+    },
+    {
+      "path": "Reference MD Files/All Historical and Current/DBH/2026-10-09/pdf/Service-Rules-redline.pdf",
+      "sha256": "d304ec6870a764fea3188753a02ff07f798991c85057a57810010884d3b531ff",
+      "source_url": "https://dam.assets.ohio.gov/image/upload/mha.ohio.gov/AboutUs/RulesandRegulations/Rules/Draft-Rules/Service-Rules.pdf",
+      "status": "historical proposed-source snapshot"
+    },
+    {
+      "path": "Reference MD Files/All Historical and Current/ERF236150_BIA_2026-10-05_Narrative.md",
+      "sha256": "c5f44e14b6c3fe45cb99fee24a9238fc4793d65fc116d9c48a5d85c3a4d21a7e",
+      "source_url": "https://dam.assets.ohio.gov/image/upload/medicaid.ohio.gov/Stakeholders%2C%20Partners/LegalandContracts/Rules/BIAERF236150.pdf",
+      "status": "historical proposed-source snapshot; stable URL may now return different bytes"
+    },
+    {
+      "path": "Reference MD Files/All Historical and Current/ERF236150_BIA_2026-10-05_Proposed_Clean_Text.md",
+      "sha256": "2b777dac9e191bcc14d9fcf175b8dc3baec96335a97b96a4fa14cc8f894a291d",
+      "source_url": "https://dam.assets.ohio.gov/image/upload/medicaid.ohio.gov/Stakeholders%2C%20Partners/LegalandContracts/Rules/BIAERF236150.pdf",
+      "status": "historical proposed-source snapshot; stable URL may now return different bytes"
+    },
+    {
+      "path": "Reference MD Files/All Historical and Current/ERF236150_Proposed_BH_Rules_2026-09-11.md",
+      "sha256": "9340574a054766af38a83018a52a1badd804085f98397c918b1e7acb732c734b",
+      "source_url": "https://dam.assets.ohio.gov/image/upload/medicaid.ohio.gov/Stakeholders%2C%20Partners/LegalandContracts/Rules/BIAERF236150.pdf",
+      "status": "historical proposed-source snapshot; stable URL may now return different bytes"
+    },
+    {
+      "path": "Reference MD Files/All Historical and Current/ERF236150_Proposed_BH_Rules_2026-09-11_VALIDATION.md",
+      "sha256": "1aa1f106bc60ba169fe0300094a1f52869f35e61634bad1e149d98e0472b5441",
+      "source_url": "https://dam.assets.ohio.gov/image/upload/medicaid.ohio.gov/Stakeholders%2C%20Partners/LegalandContracts/Rules/BIAERF236150.pdf",
+      "status": "historical proposed-source snapshot; stable URL may now return different bytes"
+    },
+    {
+      "path": "Reference MD Files/All Historical and Current/OAC/2026-10-07/OAC_Chapter_5160-27.md",
+      "sha256": "00ae87094f6108cb6f9bb5bf948b42d0d937bb70154f1a21c9d596d763b3de20",
+      "source_url": "https://codes.ohio.gov/",
+      "status": "historical effective-law baseline; verify current effective date"
+    },
+    {
+      "path": "Reference MD Files/All Historical and Current/OAC/2026-10-07/OAC_Rule_5160-8-05.md",
+      "sha256": "6079064bdd6681a7d571afe628f260f84532af7867a715fa0d090e1f88b7a0b7",
+      "source_url": "https://codes.ohio.gov/",
+      "status": "historical effective-law baseline; verify current effective date"
+    },
+    {
+      "path": "Reference MD Files/All Historical and Current/OAC Chapter 5122-24   Certification Definitions.md",
+      "sha256": "b95fa4ac1440e07571e6544f139239da4c91de85d9a26394123d38f6e0dea067",
+      "source_url": "https://codes.ohio.gov/",
+      "status": "historical effective-law baseline; verify current effective date"
+    },
+    {
+      "path": "Reference MD Files/All Historical and Current/OAC Chapter 5122-25 Certification.md",
+      "sha256": "55e89791e89b066db0c4ccc505b8bbae01d15ce3a67105a2d4526b37bd34c4ef",
+      "source_url": "https://codes.ohio.gov/",
+      "status": "historical effective-law baseline; verify current effective date"
+    },
+    {
+      "path": "Reference MD Files/All Historical and Current/OAC Chapter 5122-26   Policies and Procedures for the Operation of Mental Health Services Agencies.md",
+      "sha256": "0f0cf61783bbbb6d6cde5f4e49d24d95feead3ac0b16c1bc71111e9b2689cacc",
+      "source_url": "https://codes.ohio.gov/",
+      "status": "historical effective-law baseline; verify current effective date"
+    },
+    {
+      "path": "Reference MD Files/All Historical and Current/OAC Chapter 5122-27   Minimum Requirements for Integrated Clinical Records.md",
+      "sha256": "9dc5c735a4a444895cd05b71bbf0c91cd55e3a3e4cd36f17afecffeb7eca250e",
+      "source_url": "https://codes.ohio.gov/",
+      "status": "historical effective-law baseline; verify current effective date"
+    },
+    {
+      "path": "Reference MD Files/All Historical and Current/OAC Chapter 5122-29   Requirements and Procedures for Behavioral Health Services.md",
+      "sha256": "15ba9715802385177b47ee58b6086d3ce020a03344b278297dec0926a239a8a0",
+      "source_url": "https://codes.ohio.gov/",
+      "status": "historical effective-law baseline; verify current effective date"
+    },
+    {
+      "path": "Reference MD Files/All Historical and Current/OAC Chapter 5122-30   Licensing of Residential Facilities.md",
+      "sha256": "f44039bdad0ae5d18fd9cf2da6e2ec53c7bed2c493568315faf847819b1c4307",
+      "source_url": "https://codes.ohio.gov/",
+      "status": "historical effective-law baseline; verify current effective date"
+    },
+    {
+      "path": "Reference MD Files/All Historical and Current/OAC Chapter 5122-31   Recovery Housing Residences.md",
+      "sha256": "d7524d27cacb6d6771607110b471a970d0b41c0038a2cb6f9ae7583023f71787",
+      "source_url": "https://codes.ohio.gov/",
+      "status": "historical effective-law baseline; verify current effective date"
+    },
+    {
+      "path": "Reference MD Files/All Historical and Current/OAC Chapter 5160-1   General Provisions.md",
+      "sha256": "6bb0c0e69c03e498c0e6c4547d4c78e23a9a3451d3e95f88b0c557414ec54dad",
+      "source_url": "https://codes.ohio.gov/",
+      "status": "historical effective-law baseline; verify current effective date"
+    },
+    {
+      "path": "Reference MD Files/All Historical and Current/OAC Chapter 5160-27   Community Behavioral Health Agency Services.md",
+      "sha256": "731117d2d2c594b2d43a9bf04f999e8a90473b6757a2b3c20fb04353935f1d81",
+      "source_url": "https://codes.ohio.gov/",
+      "status": "historical effective-law baseline; verify current effective date"
+    },
+    {
+      "path": "Reference MD Files/All Historical and Current/OAC Rule 5160-8-05   Behavioral health services - other licensed professionals.md",
+      "sha256": "69e8b4c513160253a5bd6e4bb766b3ea3e8ae83229de3a49ea00ac65351db860",
+      "source_url": "https://codes.ohio.gov/",
+      "status": "historical effective-law baseline; verify current effective date"
+    },
+    {
+      "path": "Reference MD Files/All Historical and Current/ODM/2026-10-15/pdf/BIAERF236150.pdf",
+      "sha256": "675b75879157845748c1f0dcfaae1f10876a64fa2a96c655ae5cfdd7d21bf8ef",
+      "source_url": "https://dam.assets.ohio.gov/image/upload/medicaid.ohio.gov/Stakeholders%2C%20Partners/LegalandContracts/Rules/BIAERF236150.pdf",
+      "status": "historical proposed-source snapshot; stable URL may now return different bytes"
+    },
+    {
+      "path": "Reference MD Files/All Historical and Current/ORC/2026-10-07/ORC_Chapter_5119.md",
+      "sha256": "50084c9fda334816f4309b8b394949eb45ff12fd115090dcde256495be02d392",
+      "source_url": "https://codes.ohio.gov/",
+      "status": "historical effective-law baseline; verify current effective date"
+    },
+    {
+      "path": "Reference MD Files/All Historical and Current/ORC/2026-10-07/ORC_Chapter_5160.md",
+      "sha256": "f6346f6c1d47e528fa310370d93ff8a204255bb6b518a88775dbb3ab2eaf7490",
+      "source_url": "https://codes.ohio.gov/",
+      "status": "historical effective-law baseline; verify current effective date"
+    },
+    {
+      "path": "Reference MD Files/All Historical and Current/ORC/2026-10-07/ORC_Chapter_5163.md",
+      "sha256": "fc39a2ab1b860e6ec9ef9a6a78e615724e0a0b623e75ea75bc5c718b6edc0700",
+      "source_url": "https://codes.ohio.gov/",
+      "status": "historical effective-law baseline; verify current effective date"
+    },
+    {
+      "path": "Reference MD Files/All Historical and Current/ORC/2026-10-07/ORC_Chapter_5164.md",
+      "sha256": "8dca5efc49d1a47e2e537e0b0f6ab1f5b52e96cb452afe72421d69ebfd18dd5c",
+      "source_url": "https://codes.ohio.gov/",
+      "status": "historical effective-law baseline; verify current effective date"
+    },
+    {
+      "path": "Reference MD Files/All Historical and Current/ORC/2026-10-07/ORC_Chapter_5167.md",
+      "sha256": "273d45d74466a23ccd327514438206832d4e2deff46a13eeb76e27a566539410",
+      "source_url": "https://codes.ohio.gov/",
+      "status": "historical effective-law baseline; verify current effective date"
+    },
+    {
+      "path": "Managed Care Agreements/Excerpts/Parts/MCO_2026_07/INDEX.md",
+      "sha256": "09c4ca2eb4d1539131b42f9ea1551477ffa7707c70060a24867e84e06374dd23",
+      "source_url": "https://dam.assets.ohio.gov/image/upload/medicaid.ohio.gov/Providers/ProviderTypes/Managed%20Care/Provider%20Agreements/2026_07_MCO_Final_2.pdf",
+      "status": "incomplete agreement browser-reading view; governed by omission register"
+    },
+    {
+      "path": "Managed Care Agreements/Excerpts/Parts/MCO_2026_07/part-01.md",
+      "sha256": "4ef553ccd32d3eb79724acb01d49d2f910c219c4e3559fe8d7f8d373c9ee31ae",
+      "source_url": "https://dam.assets.ohio.gov/image/upload/medicaid.ohio.gov/Providers/ProviderTypes/Managed%20Care/Provider%20Agreements/2026_07_MCO_Final_2.pdf",
+      "status": "incomplete agreement browser-reading view; governed by omission register"
+    },
+    {
+      "path": "Managed Care Agreements/Excerpts/Parts/MCO_2026_07/part-02.md",
+      "sha256": "748ed0eb58bbf9dcf999bc245487e6c7043f029f14832bd678f9b919e7edf05f",
+      "source_url": "https://dam.assets.ohio.gov/image/upload/medicaid.ohio.gov/Providers/ProviderTypes/Managed%20Care/Provider%20Agreements/2026_07_MCO_Final_2.pdf",
+      "status": "incomplete agreement browser-reading view; governed by omission register"
+    },
+    {
+      "path": "Managed Care Agreements/Excerpts/Parts/MCO_2026_07/part-03.md",
+      "sha256": "91f097840b619314e33cbf3b8730e6957467456833a4cb0a1f6fe94e81a9b52f",
+      "source_url": "https://dam.assets.ohio.gov/image/upload/medicaid.ohio.gov/Providers/ProviderTypes/Managed%20Care/Provider%20Agreements/2026_07_MCO_Final_2.pdf",
+      "status": "incomplete agreement browser-reading view; governed by omission register"
+    },
+    {
+      "path": "Managed Care Agreements/Excerpts/Parts/MCO_2026_07/part-04.md",
+      "sha256": "5f5071d1b25721cc73f9f115b2fdb0be757221a797662c0c9833259286c66657",
+      "source_url": "https://dam.assets.ohio.gov/image/upload/medicaid.ohio.gov/Providers/ProviderTypes/Managed%20Care/Provider%20Agreements/2026_07_MCO_Final_2.pdf",
+      "status": "incomplete agreement browser-reading view; governed by omission register"
+    },
+    {
+      "path": "Managed Care Agreements/Excerpts/Parts/MCO_2026_07/part-05.md",
+      "sha256": "316f4d8faf19e648fc86dcbdebc0064a3ea6b2e6fb5cf4cb44ffc429f898a8f4",
+      "source_url": "https://dam.assets.ohio.gov/image/upload/medicaid.ohio.gov/Providers/ProviderTypes/Managed%20Care/Provider%20Agreements/2026_07_MCO_Final_2.pdf",
+      "status": "incomplete agreement browser-reading view; governed by omission register"
+    },
+    {
+      "path": "Managed Care Agreements/Excerpts/Parts/MCO_2026_07/part-06.md",
+      "sha256": "146327e5691d8f0808a33d4facc0adaddd9c98cf34c45b8bf21ec4db550eb038",
+      "source_url": "https://dam.assets.ohio.gov/image/upload/medicaid.ohio.gov/Providers/ProviderTypes/Managed%20Care/Provider%20Agreements/2026_07_MCO_Final_2.pdf",
+      "status": "incomplete agreement browser-reading view; governed by omission register"
+    },
+    {
+      "path": "Managed Care Agreements/Excerpts/Parts/MCO_2026_07/part-07.md",
+      "sha256": "f2bc845fa4a43139f4776e8aef86e39f33a245400ba17595924c3fc7cdeb54f8",
+      "source_url": "https://dam.assets.ohio.gov/image/upload/medicaid.ohio.gov/Providers/ProviderTypes/Managed%20Care/Provider%20Agreements/2026_07_MCO_Final_2.pdf",
+      "status": "incomplete agreement browser-reading view; governed by omission register"
+    },
+    {
+      "path": "Managed Care Agreements/Excerpts/Parts/MCO_2026_07/part-08.md",
+      "sha256": "09900655ca2ac5ac8192c2d1ede76d43736c092bd3a2f07cc5d53051c6edf925",
+      "source_url": "https://dam.assets.ohio.gov/image/upload/medicaid.ohio.gov/Providers/ProviderTypes/Managed%20Care/Provider%20Agreements/2026_07_MCO_Final_2.pdf",
+      "status": "incomplete agreement browser-reading view; governed by omission register"
+    },
+    {
+      "path": "Managed Care Agreements/Excerpts/Parts/MCO_2026_07/part-09.md",
+      "sha256": "9f30ab4e8b01df31327d87ab8f089d9abd93ed6621faab7c3e8c63d9c0cd8eb7",
+      "source_url": "https://dam.assets.ohio.gov/image/upload/medicaid.ohio.gov/Providers/ProviderTypes/Managed%20Care/Provider%20Agreements/2026_07_MCO_Final_2.pdf",
+      "status": "incomplete agreement browser-reading view; governed by omission register"
+    },
+    {
+      "path": "Managed Care Agreements/Excerpts/Parts/MCO_2026_07/part-10.md",
+      "sha256": "a13b78c5be195ace5d6f7d19440224fe9e8ad4cf6476901cd0aef88208613fa8",
+      "source_url": "https://dam.assets.ohio.gov/image/upload/medicaid.ohio.gov/Providers/ProviderTypes/Managed%20Care/Provider%20Agreements/2026_07_MCO_Final_2.pdf",
+      "status": "incomplete agreement browser-reading view; governed by omission register"
+    },
+    {
+      "path": "Managed Care Agreements/Excerpts/Parts/MCO_2026_07/part-11.md",
+      "sha256": "f11d64e212cc18f0c73736df783fb981ba22606738595bec718197058f09c8c6",
+      "source_url": "https://dam.assets.ohio.gov/image/upload/medicaid.ohio.gov/Providers/ProviderTypes/Managed%20Care/Provider%20Agreements/2026_07_MCO_Final_2.pdf",
+      "status": "incomplete agreement browser-reading view; governed by omission register"
+    },
+    {
+      "path": "Managed Care Agreements/Excerpts/Parts/MCO_2026_07/part-12.md",
+      "sha256": "5b472a5602b98dd9968f2d12523e6786822f1d52196149867ebd0b33cbf28bf7",
+      "source_url": "https://dam.assets.ohio.gov/image/upload/medicaid.ohio.gov/Providers/ProviderTypes/Managed%20Care/Provider%20Agreements/2026_07_MCO_Final_2.pdf",
+      "status": "incomplete agreement browser-reading view; governed by omission register"
+    },
+    {
+      "path": "Managed Care Agreements/Excerpts/Parts/MCO_2026_07/part-13.md",
+      "sha256": "026f70515cc20b7b74eb469c10d750df48d8e2c6374afabb2f4e5222191db8bf",
+      "source_url": "https://dam.assets.ohio.gov/image/upload/medicaid.ohio.gov/Providers/ProviderTypes/Managed%20Care/Provider%20Agreements/2026_07_MCO_Final_2.pdf",
+      "status": "incomplete agreement browser-reading view; governed by omission register"
+    },
+    {
+      "path": "Managed Care Agreements/Excerpts/Parts/MCO_2026_07/part-14.md",
+      "sha256": "653f25af25b661116aa446f85654e87f1f1fc3ce29e00a7ee27783e22c603138",
+      "source_url": "https://dam.assets.ohio.gov/image/upload/medicaid.ohio.gov/Providers/ProviderTypes/Managed%20Care/Provider%20Agreements/2026_07_MCO_Final_2.pdf",
+      "status": "incomplete agreement browser-reading view; governed by omission register"
+    },
+    {
+      "path": "Managed Care Agreements/Excerpts/Parts/MCO_2026_07/part-15.md",
+      "sha256": "ec0299ef7be109149922ceab6916233c3a8561b28936fc42f8726c65b89cf452",
+      "source_url": "https://dam.assets.ohio.gov/image/upload/medicaid.ohio.gov/Providers/ProviderTypes/Managed%20Care/Provider%20Agreements/2026_07_MCO_Final_2.pdf",
+      "status": "incomplete agreement browser-reading view; governed by omission register"
+    },
+    {
+      "path": "Managed Care Agreements/Excerpts/Parts/MCO_2026_07/part-16.md",
+      "sha256": "67174b3607258c3b3ef1739710f4c509c423f98b720fd67850a35a08be1c3d6f",
+      "source_url": "https://dam.assets.ohio.gov/image/upload/medicaid.ohio.gov/Providers/ProviderTypes/Managed%20Care/Provider%20Agreements/2026_07_MCO_Final_2.pdf",
+      "status": "incomplete agreement browser-reading view; governed by omission register"
+    },
+    {
+      "path": "Managed Care Agreements/Excerpts/Parts/MCO_2026_07/part-17.md",
+      "sha256": "75521bd17e40789e02ec2ffdc486c3a56685ce08f467c125ccf8b8130c6f5546",
+      "source_url": "https://dam.assets.ohio.gov/image/upload/medicaid.ohio.gov/Providers/ProviderTypes/Managed%20Care/Provider%20Agreements/2026_07_MCO_Final_2.pdf",
+      "status": "incomplete agreement browser-reading view; governed by omission register"
+    },
+    {
+      "path": "Managed Care Agreements/Excerpts/Parts/MCO_2026_07/part-18.md",
+      "sha256": "aaab0afa87e1f6fece02635163c4917c7102fa6125353b5a9506d75b55301b4e",
+      "source_url": "https://dam.assets.ohio.gov/image/upload/medicaid.ohio.gov/Providers/ProviderTypes/Managed%20Care/Provider%20Agreements/2026_07_MCO_Final_2.pdf",
+      "status": "incomplete agreement browser-reading view; governed by omission register"
+    },
+    {
+      "path": "Managed Care Agreements/Excerpts/Parts/MCO_2026_07/part-19.md",
+      "sha256": "87c7446a4e63954f770dce6f853e2d0d24551978b8ed787b64d934e940bc40b0",
+      "source_url": "https://dam.assets.ohio.gov/image/upload/medicaid.ohio.gov/Providers/ProviderTypes/Managed%20Care/Provider%20Agreements/2026_07_MCO_Final_2.pdf",
+      "status": "incomplete agreement browser-reading view; governed by omission register"
+    },
+    {
+      "path": "Managed Care Agreements/Excerpts/Parts/MCO_2026_07/part-20.md",
+      "sha256": "35f1ba464b9ea62f552b04b4e9b0a8ac711bbb20bff4ed14d6820f70cf0fda33",
+      "source_url": "https://dam.assets.ohio.gov/image/upload/medicaid.ohio.gov/Providers/ProviderTypes/Managed%20Care/Provider%20Agreements/2026_07_MCO_Final_2.pdf",
+      "status": "incomplete agreement browser-reading view; governed by omission register"
+    },
+    {
+      "path": "Managed Care Agreements/Excerpts/Parts/MCO_2026_07/part-21.md",
+      "sha256": "ce1145974034ee37aac63b9d2a4b2e33fa0f2a44ce850cd4a81a787abb2230ce",
+      "source_url": "https://dam.assets.ohio.gov/image/upload/medicaid.ohio.gov/Providers/ProviderTypes/Managed%20Care/Provider%20Agreements/2026_07_MCO_Final_2.pdf",
+      "status": "incomplete agreement browser-reading view; governed by omission register"
+    },
+    {
+      "path": "Managed Care Agreements/Excerpts/Parts/MyCare_2026_01/INDEX.md",
+      "sha256": "e48b887a7a4409106eecfbe8ef04bfdc3cbee9a70fe1deb252ff243ec97008b7",
+      "source_url": "https://dam.assets.ohio.gov/image/upload/medicaid.ohio.gov/Providers/ProviderTypes/Managed%20Care/MyCareOhio/2026_01_Next_Gen_MyCare_Final_PA.pdf",
+      "status": "incomplete agreement browser-reading view; governed by omission register"
+    },
+    {
+      "path": "Managed Care Agreements/Excerpts/Parts/MyCare_2026_01/part-01.md",
+      "sha256": "6f1b506e61f76046e1df2d250e7ee9b4d68da18a413fc27afd98876f5a3daf04",
+      "source_url": "https://dam.assets.ohio.gov/image/upload/medicaid.ohio.gov/Providers/ProviderTypes/Managed%20Care/MyCareOhio/2026_01_Next_Gen_MyCare_Final_PA.pdf",
+      "status": "incomplete agreement browser-reading view; governed by omission register"
+    },
+    {
+      "path": "Managed Care Agreements/Excerpts/Parts/MyCare_2026_01/part-02.md",
+      "sha256": "4b4dcd5ed5053bbbfbb23c56abaaa9a6f72c8b732dab2d2939502f6427167f4d",
+      "source_url": "https://dam.assets.ohio.gov/image/upload/medicaid.ohio.gov/Providers/ProviderTypes/Managed%20Care/MyCareOhio/2026_01_Next_Gen_MyCare_Final_PA.pdf",
+      "status": "incomplete agreement browser-reading view; governed by omission register"
+    },
+    {
+      "path": "Managed Care Agreements/Excerpts/Parts/MyCare_2026_01/part-03.md",
+      "sha256": "18f98940befc69d0f4ef7482a6d843665b5027f078ffa670881e2fc520e38ea4",
+      "source_url": "https://dam.assets.ohio.gov/image/upload/medicaid.ohio.gov/Providers/ProviderTypes/Managed%20Care/MyCareOhio/2026_01_Next_Gen_MyCare_Final_PA.pdf",
+      "status": "incomplete agreement browser-reading view; governed by omission register"
+    },
+    {
+      "path": "Managed Care Agreements/Excerpts/Parts/MyCare_2026_01/part-04.md",
+      "sha256": "a3cc9efbcb45926d2548c5ea4cb9f5cd28a536eed6991facf58a940a48ef666d",
+      "source_url": "https://dam.assets.ohio.gov/image/upload/medicaid.ohio.gov/Providers/ProviderTypes/Managed%20Care/MyCareOhio/2026_01_Next_Gen_MyCare_Final_PA.pdf",
+      "status": "incomplete agreement browser-reading view; governed by omission register"
+    },
+    {
+      "path": "Managed Care Agreements/Excerpts/Parts/MyCare_2026_01/part-05.md",
+      "sha256": "d0cda7de30606513fe05dd8ca5399c939946dd3b0d785301e26dda18348d41c1",
+      "source_url": "https://dam.assets.ohio.gov/image/upload/medicaid.ohio.gov/Providers/ProviderTypes/Managed%20Care/MyCareOhio/2026_01_Next_Gen_MyCare_Final_PA.pdf",
+      "status": "incomplete agreement browser-reading view; governed by omission register"
+    },
+    {
+      "path": "Managed Care Agreements/Excerpts/Parts/MyCare_2026_01/part-06.md",
+      "sha256": "4e11a343d68028f987eccc5ca2970f8d80eb366eb90b5d205d4157c009b17d47",
+      "source_url": "https://dam.assets.ohio.gov/image/upload/medicaid.ohio.gov/Providers/ProviderTypes/Managed%20Care/MyCareOhio/2026_01_Next_Gen_MyCare_Final_PA.pdf",
+      "status": "incomplete agreement browser-reading view; governed by omission register"
+    },
+    {
+      "path": "Managed Care Agreements/Excerpts/Parts/MyCare_2026_01/part-07.md",
+      "sha256": "e04950518f08f8cef6ac6d3ff8dc374eacc61db7d108c2468ce7bf33964c4f45",
+      "source_url": "https://dam.assets.ohio.gov/image/upload/medicaid.ohio.gov/Providers/ProviderTypes/Managed%20Care/MyCareOhio/2026_01_Next_Gen_MyCare_Final_PA.pdf",
+      "status": "incomplete agreement browser-reading view; governed by omission register"
+    },
+    {
+      "path": "Managed Care Agreements/Excerpts/Parts/MyCare_2026_01/part-08.md",
+      "sha256": "4bc330853083dbe89111448486da05ee706b97c177f733042993fca35f18aa86",
+      "source_url": "https://dam.assets.ohio.gov/image/upload/medicaid.ohio.gov/Providers/ProviderTypes/Managed%20Care/MyCareOhio/2026_01_Next_Gen_MyCare_Final_PA.pdf",
+      "status": "incomplete agreement browser-reading view; governed by omission register"
+    },
+    {
+      "path": "Managed Care Agreements/Excerpts/Parts/MyCare_2026_01/part-09.md",
+      "sha256": "0a71afc4e1dfbf22834dc2347fee61de850d645a09e09546b8a706b1212dc6ff",
+      "source_url": "https://dam.assets.ohio.gov/image/upload/medicaid.ohio.gov/Providers/ProviderTypes/Managed%20Care/MyCareOhio/2026_01_Next_Gen_MyCare_Final_PA.pdf",
+      "status": "incomplete agreement browser-reading view; governed by omission register"
+    },
+    {
+      "path": "Managed Care Agreements/Excerpts/Parts/MyCare_2026_01/part-10.md",
+      "sha256": "a4a0324af3d8a7a0905a033a33d0e28d04a3425a10672cf37605853c844765d9",
+      "source_url": "https://dam.assets.ohio.gov/image/upload/medicaid.ohio.gov/Providers/ProviderTypes/Managed%20Care/MyCareOhio/2026_01_Next_Gen_MyCare_Final_PA.pdf",
+      "status": "incomplete agreement browser-reading view; governed by omission register"
+    },
+    {
+      "path": "Managed Care Agreements/Excerpts/Parts/MyCare_2026_01/part-11.md",
+      "sha256": "f28cbd9d2ef79b6fbf1b865991dff6bb251e1986fa0705ccc8ae2b66a0f128ae",
+      "source_url": "https://dam.assets.ohio.gov/image/upload/medicaid.ohio.gov/Providers/ProviderTypes/Managed%20Care/MyCareOhio/2026_01_Next_Gen_MyCare_Final_PA.pdf",
+      "status": "incomplete agreement browser-reading view; governed by omission register"
+    },
+    {
+      "path": "Managed Care Agreements/Excerpts/Parts/MyCare_2026_01/part-12.md",
+      "sha256": "0aaf8ee9f363e414961b8a139d0455b8127b339f2d5906c0a925cf424dbc2e69",
+      "source_url": "https://dam.assets.ohio.gov/image/upload/medicaid.ohio.gov/Providers/ProviderTypes/Managed%20Care/MyCareOhio/2026_01_Next_Gen_MyCare_Final_PA.pdf",
+      "status": "incomplete agreement browser-reading view; governed by omission register"
+    },
+    {
+      "path": "Managed Care Agreements/Excerpts/Parts/MyCare_2026_01/part-13.md",
+      "sha256": "2fa48930373e99506acb61010582780f62b7d4a68d8ca8753f3b3a8dc6011963",
+      "source_url": "https://dam.assets.ohio.gov/image/upload/medicaid.ohio.gov/Providers/ProviderTypes/Managed%20Care/MyCareOhio/2026_01_Next_Gen_MyCare_Final_PA.pdf",
+      "status": "incomplete agreement browser-reading view; governed by omission register"
+    },
+    {
+      "path": "Managed Care Agreements/Excerpts/Parts/MyCare_2026_01/part-14.md",
+      "sha256": "571788612f3bed28cfc6ba93b19574c7efa8f0c83090e4e6e311a152bcb26407",
+      "source_url": "https://dam.assets.ohio.gov/image/upload/medicaid.ohio.gov/Providers/ProviderTypes/Managed%20Care/MyCareOhio/2026_01_Next_Gen_MyCare_Final_PA.pdf",
+      "status": "incomplete agreement browser-reading view; governed by omission register"
+    },
+    {
+      "path": "Managed Care Agreements/Excerpts/Parts/MyCare_2026_01/part-15.md",
+      "sha256": "18e41ac620492c744a1fbb94b57ea01e6a3c89535bf41d8d75bc84b1755908f4",
+      "source_url": "https://dam.assets.ohio.gov/image/upload/medicaid.ohio.gov/Providers/ProviderTypes/Managed%20Care/MyCareOhio/2026_01_Next_Gen_MyCare_Final_PA.pdf",
+      "status": "incomplete agreement browser-reading view; governed by omission register"
+    },
+    {
+      "path": "Managed Care Agreements/Excerpts/Parts/MyCare_2026_01/part-16.md",
+      "sha256": "33c5b2095e8f53bfe4c491ca9ddbaf9279e0c4b6db08bee3f23cd8354767f474",
+      "source_url": "https://dam.assets.ohio.gov/image/upload/medicaid.ohio.gov/Providers/ProviderTypes/Managed%20Care/MyCareOhio/2026_01_Next_Gen_MyCare_Final_PA.pdf",
+      "status": "incomplete agreement browser-reading view; governed by omission register"
+    },
+    {
+      "path": "Managed Care Agreements/Excerpts/Parts/MyCare_2026_01/part-17.md",
+      "sha256": "465d9b8dc87b940afc79fafbd133e281fa0029b71aee173b4d11c45b4545a9d5",
+      "source_url": "https://dam.assets.ohio.gov/image/upload/medicaid.ohio.gov/Providers/ProviderTypes/Managed%20Care/MyCareOhio/2026_01_Next_Gen_MyCare_Final_PA.pdf",
+      "status": "incomplete agreement browser-reading view; governed by omission register"
+    },
+    {
+      "path": "Managed Care Agreements/Excerpts/Parts/MyCare_2026_01/part-18.md",
+      "sha256": "bac41d5413caa669af188ba4ddf17c41c884abd7860435b5ab9d38ad5a7e9079",
+      "source_url": "https://dam.assets.ohio.gov/image/upload/medicaid.ohio.gov/Providers/ProviderTypes/Managed%20Care/MyCareOhio/2026_01_Next_Gen_MyCare_Final_PA.pdf",
+      "status": "incomplete agreement browser-reading view; governed by omission register"
+    },
+    {
+      "path": "Managed Care Agreements/Excerpts/Parts/MyCare_2026_01/part-19.md",
+      "sha256": "c6193271ae409f6e8855175add5a9e3575fc4d4ab44961cb8f1ba050d69589ad",
+      "source_url": "https://dam.assets.ohio.gov/image/upload/medicaid.ohio.gov/Providers/ProviderTypes/Managed%20Care/MyCareOhio/2026_01_Next_Gen_MyCare_Final_PA.pdf",
+      "status": "incomplete agreement browser-reading view; governed by omission register"
+    },
+    {
+      "path": "Managed Care Agreements/Excerpts/Parts/MyCare_2026_01/part-20.md",
+      "sha256": "f56bab3869e8e63842d4bcb0177e7911c1b1c9ad3f31c556d9c30fb3179da571",
+      "source_url": "https://dam.assets.ohio.gov/image/upload/medicaid.ohio.gov/Providers/ProviderTypes/Managed%20Care/MyCareOhio/2026_01_Next_Gen_MyCare_Final_PA.pdf",
+      "status": "incomplete agreement browser-reading view; governed by omission register"
+    },
+    {
+      "path": "Managed Care Agreements/Excerpts/Parts/OhioRISE_2026_07/INDEX.md",
+      "sha256": "898f55af428edc1a7fd094153b3971133c1d8757efc22c61a4f5259b58769534",
+      "source_url": "https://dam.assets.ohio.gov/image/upload/managedcare.medicaid.ohio.gov/OhioRISE/2026_07_Final_OhioRISE_Provider_Agreement.pdf",
+      "status": "incomplete agreement browser-reading view; governed by omission register"
+    },
+    {
+      "path": "Managed Care Agreements/Excerpts/Parts/OhioRISE_2026_07/part-01.md",
+      "sha256": "fc17732f80dbe1cd6483caa6b7174273d0ad4ffecd81a9c0eb0744f0a270b838",
+      "source_url": "https://dam.assets.ohio.gov/image/upload/managedcare.medicaid.ohio.gov/OhioRISE/2026_07_Final_OhioRISE_Provider_Agreement.pdf",
+      "status": "incomplete agreement browser-reading view; governed by omission register"
+    },
+    {
+      "path": "Managed Care Agreements/Excerpts/Parts/OhioRISE_2026_07/part-02.md",
+      "sha256": "3c6ff67e6f0cda4b3b4ba8bac5939bfade7e21f545aaf424f31a14db4635a295",
+      "source_url": "https://dam.assets.ohio.gov/image/upload/managedcare.medicaid.ohio.gov/OhioRISE/2026_07_Final_OhioRISE_Provider_Agreement.pdf",
+      "status": "incomplete agreement browser-reading view; governed by omission register"
+    },
+    {
+      "path": "Managed Care Agreements/Excerpts/Parts/OhioRISE_2026_07/part-03.md",
+      "sha256": "a0e4bc898fbbd7ca1bb70558e1712c41376c083c554c91324344aad4a847b1cb",
+      "source_url": "https://dam.assets.ohio.gov/image/upload/managedcare.medicaid.ohio.gov/OhioRISE/2026_07_Final_OhioRISE_Provider_Agreement.pdf",
+      "status": "incomplete agreement browser-reading view; governed by omission register"
+    },
+    {
+      "path": "Managed Care Agreements/Excerpts/Parts/OhioRISE_2026_07/part-04.md",
+      "sha256": "02da4d18f234b0a6572c4b143eded07999d28956cce4ca16c182a5b304ac4c74",
+      "source_url": "https://dam.assets.ohio.gov/image/upload/managedcare.medicaid.ohio.gov/OhioRISE/2026_07_Final_OhioRISE_Provider_Agreement.pdf",
+      "status": "incomplete agreement browser-reading view; governed by omission register"
+    },
+    {
+      "path": "Managed Care Agreements/Excerpts/Parts/OhioRISE_2026_07/part-05.md",
+      "sha256": "6af6eb0b3217327663a57f4573f1b9d0e2faacefe67868d76845f445759a32c2",
+      "source_url": "https://dam.assets.ohio.gov/image/upload/managedcare.medicaid.ohio.gov/OhioRISE/2026_07_Final_OhioRISE_Provider_Agreement.pdf",
+      "status": "incomplete agreement browser-reading view; governed by omission register"
+    },
+    {
+      "path": "Managed Care Agreements/Excerpts/Parts/OhioRISE_2026_07/part-06.md",
+      "sha256": "c992cad844c7d5a25d663d28839676c9e20e3e2b88b219c2d665442fff1aa792",
+      "source_url": "https://dam.assets.ohio.gov/image/upload/managedcare.medicaid.ohio.gov/OhioRISE/2026_07_Final_OhioRISE_Provider_Agreement.pdf",
+      "status": "incomplete agreement browser-reading view; governed by omission register"
+    },
+    {
+      "path": "Managed Care Agreements/Excerpts/Parts/OhioRISE_2026_07/part-07.md",
+      "sha256": "5f07fe9c68cc18332c35467c3f48835258b3a0fff07813dd197fa1f36583860a",
+      "source_url": "https://dam.assets.ohio.gov/image/upload/managedcare.medicaid.ohio.gov/OhioRISE/2026_07_Final_OhioRISE_Provider_Agreement.pdf",
+      "status": "incomplete agreement browser-reading view; governed by omission register"
+    },
+    {
+      "path": "Managed Care Agreements/Excerpts/Parts/OhioRISE_2026_07/part-08.md",
+      "sha256": "024daa087692c3fb4805622163867cebcea564670a3145c2187c1414100e3590",
+      "source_url": "https://dam.assets.ohio.gov/image/upload/managedcare.medicaid.ohio.gov/OhioRISE/2026_07_Final_OhioRISE_Provider_Agreement.pdf",
+      "status": "incomplete agreement browser-reading view; governed by omission register"
+    },
+    {
+      "path": "Managed Care Agreements/Excerpts/Parts/OhioRISE_2026_07/part-09.md",
+      "sha256": "38dd563f05a4ce2020d3fa3060eb5d424485d5ce253d98d8a05d6d3fadf2eb47",
+      "source_url": "https://dam.assets.ohio.gov/image/upload/managedcare.medicaid.ohio.gov/OhioRISE/2026_07_Final_OhioRISE_Provider_Agreement.pdf",
+      "status": "incomplete agreement browser-reading view; governed by omission register"
+    },
+    {
+      "path": "Managed Care Agreements/Excerpts/Parts/OhioRISE_2026_07/part-10.md",
+      "sha256": "9c2925d6f2752a3b07b18043cc711f2c56262461f63269039fd2a26c8ab38d42",
+      "source_url": "https://dam.assets.ohio.gov/image/upload/managedcare.medicaid.ohio.gov/OhioRISE/2026_07_Final_OhioRISE_Provider_Agreement.pdf",
+      "status": "incomplete agreement browser-reading view; governed by omission register"
+    },
+    {
+      "path": "Managed Care Agreements/Excerpts/Parts/OhioRISE_2026_07/part-11.md",
+      "sha256": "5d85e0d776e61f417477a7ed297ecdf9a7580edc0e74f8daf7de5eb3c3587eec",
+      "source_url": "https://dam.assets.ohio.gov/image/upload/managedcare.medicaid.ohio.gov/OhioRISE/2026_07_Final_OhioRISE_Provider_Agreement.pdf",
+      "status": "incomplete agreement browser-reading view; governed by omission register"
+    },
+    {
+      "path": "Managed Care Agreements/Excerpts/Parts/OhioRISE_2026_07/part-12.md",
+      "sha256": "686d234c30f3be22341cd36b345d4eaffcb8319e03c8a7676d8ec0ad26195006",
+      "source_url": "https://dam.assets.ohio.gov/image/upload/managedcare.medicaid.ohio.gov/OhioRISE/2026_07_Final_OhioRISE_Provider_Agreement.pdf",
+      "status": "incomplete agreement browser-reading view; governed by omission register"
+    },
+    {
+      "path": "Managed Care Agreements/Excerpts/Parts/OhioRISE_2026_07/part-13.md",
+      "sha256": "0ddbe6659135bf479dd1560c6ae47f59c13db88849c2c526f50ee071a01cc767",
+      "source_url": "https://dam.assets.ohio.gov/image/upload/managedcare.medicaid.ohio.gov/OhioRISE/2026_07_Final_OhioRISE_Provider_Agreement.pdf",
+      "status": "incomplete agreement browser-reading view; governed by omission register"
+    },
+    {
+      "path": "Managed Care Agreements/Excerpts/Parts/OhioRISE_2026_07/part-14.md",
+      "sha256": "9a8c70bc0a28fb58d3434f220d10c4d6cd4c2ede2db28bf7e2284d77324618c5",
+      "source_url": "https://dam.assets.ohio.gov/image/upload/managedcare.medicaid.ohio.gov/OhioRISE/2026_07_Final_OhioRISE_Provider_Agreement.pdf",
+      "status": "incomplete agreement browser-reading view; governed by omission register"
+    },
+    {
+      "path": "Managed Care Agreements/Excerpts/Parts/OhioRISE_2026_07/part-15.md",
+      "sha256": "e2ff9a4d105027185c9a1fcca7f714d3727857804b388bb222df226e54a4a366",
+      "source_url": "https://dam.assets.ohio.gov/image/upload/managedcare.medicaid.ohio.gov/OhioRISE/2026_07_Final_OhioRISE_Provider_Agreement.pdf",
+      "status": "incomplete agreement browser-reading view; governed by omission register"
+    },
+    {
+      "path": "Managed Care Agreements/Excerpts/Parts/OhioRISE_2026_07/part-16.md",
+      "sha256": "d2c2269c46fba759107f10fad25c220c2e03446b9d616feb45661f5590da1876",
+      "source_url": "https://dam.assets.ohio.gov/image/upload/managedcare.medicaid.ohio.gov/OhioRISE/2026_07_Final_OhioRISE_Provider_Agreement.pdf",
+      "status": "incomplete agreement browser-reading view; governed by omission register"
+    },
+    {
+      "path": "Managed Care Agreements/Excerpts/Parts/OhioRISE_2026_07/part-17.md",
+      "sha256": "15d96f11d92878bc589e28f1b687b8176258b2e044181e054b4c09a5fc139784",
+      "source_url": "https://dam.assets.ohio.gov/image/upload/managedcare.medicaid.ohio.gov/OhioRISE/2026_07_Final_OhioRISE_Provider_Agreement.pdf",
+      "status": "incomplete agreement browser-reading view; governed by omission register"
+    },
+    {
+      "path": "Managed Care Agreements/Excerpts/Parts/OhioRISE_2026_07/part-18.md",
+      "sha256": "116f8e599dba3b9c2a8b72df55c8cb2fe8451d714e2ca28fc3d763f2334db68f",
+      "source_url": "https://dam.assets.ohio.gov/image/upload/managedcare.medicaid.ohio.gov/OhioRISE/2026_07_Final_OhioRISE_Provider_Agreement.pdf",
+      "status": "incomplete agreement browser-reading view; governed by omission register"
+    },
+    {
+      "path": "Managed Care Agreements/Excerpts/Parts/OhioRISE_2026_07/part-19.md",
+      "sha256": "d1d5a966a724af7e7b6b5c6fd7596dd625f2830f1782fb9bc524dfdcb7e41d50",
+      "source_url": "https://dam.assets.ohio.gov/image/upload/managedcare.medicaid.ohio.gov/OhioRISE/2026_07_Final_OhioRISE_Provider_Agreement.pdf",
+      "status": "incomplete agreement browser-reading view; governed by omission register"
+    }
+  ]
+}
