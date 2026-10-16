@@ -1,0 +1,18 @@
+{
+  "source_commit": "3e2e5d4849a9d17a2ad03d13368acf9e87ce3b20",
+  "render_date": "2026-10-08",
+  "policy_reassessment": false,
+  "orc_substantive_entries": 7,
+  "orc_additional_operative_entries": 27,
+  "orc_full_text_sections": 34,
+  "odm_rule_entries": 9,
+  "odm_source_bodies_preserved": 18,
+  "odm_current_proposed_diffs": 9,
+  "odm_september_october_diffs": 9,
+  "internal_links": "passed",
+  "duplicate_ids": "none",
+  "outputs": {
+    "ORC_Refresh_Change_Report_2026-10-07.html": "b838bd14f2e6f5e07e1d8e0a16670ba116389440138b7a8ff4544227d7c838bc",
+    "ERF236150_Current_vs_Proposed_Change_Report_2026-10-07.html": "f5bc72a5b28ec73e8629d83cb613e5f5adfb42d7f0be7e6e268d7a7562eda8a4"
+  }
+}

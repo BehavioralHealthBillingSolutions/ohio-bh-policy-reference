@@ -1,0 +1,448 @@
+{
+  "packets": [
+    {
+      "packet": "ERF_September",
+      "pages": 88,
+      "sha256": "a5340983d9de47e687f885e332c1d6d5c7c3177ba25842ad68355dddfec4755d",
+      "rule_ids": [
+        "5160-8-05",
+        "5160-27-01",
+        "5160-27-02",
+        "5160-27-03",
+        "5160-27-04",
+        "5160-27-06",
+        "5160-27-08",
+        "5160-27-09",
+        "5160-27-10",
+        "5160-27-11",
+        "5160-27-14"
+      ],
+      "frontmatter_pages": [
+        1,
+        2
+      ],
+      "rescinded_predecessor_pages": [
+        15,
+        16,
+        17,
+        18,
+        19,
+        20,
+        33,
+        34,
+        35,
+        36,
+        37,
+        38,
+        39,
+        40,
+        41,
+        42,
+        43,
+        54,
+        55,
+        56,
+        61,
+        62,
+        63,
+        64,
+        71,
+        72,
+        73,
+        74
+      ],
+      "rate_appendix_pages": [
+        29,
+        30,
+        31,
+        32
+      ],
+      "every_page_classified": true
+    },
+    {
+      "packet": "BIA_October",
+      "pages": 62,
+      "sha256": "2bf304ea740a8206cefd3045c9619d7ef9f53c04423263b19b22576fcb2d156a",
+      "rule_ids": [
+        "5160-8-05",
+        "5160-27-01",
+        "5160-27-02",
+        "5160-27-04",
+        "5160-27-06",
+        "5160-27-08",
+        "5160-27-09",
+        "5160-27-10",
+        "5160-27-14"
+      ],
+      "frontmatter_pages": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11
+      ],
+      "rescinded_predecessor_pages": [
+        29,
+        30,
+        31,
+        32,
+        33,
+        34,
+        35,
+        36,
+        37,
+        38,
+        39
+      ],
+      "rate_appendix_pages": [],
+      "every_page_classified": true
+    }
+  ],
+  "rules": [
+    {
+      "packet": "ERF_September",
+      "rule": "5160-8-05",
+      "pages": [
+        3,
+        11
+      ],
+      "retained_spans": 320,
+      "deleted_red_spans": 69,
+      "retained_numeric_only": [
+        "10"
+      ],
+      "rule_body_chars": 14885,
+      "rule_body_sha256": "ca8b90d7a9a9d2ac5b9c2d67c65294b252d7cbde54a1c401c4a6247cdcf0e24c",
+      "sequence_preserved": true,
+      "unclassified_substantive_spans": 0
+    },
+    {
+      "packet": "ERF_September",
+      "rule": "5160-27-01",
+      "pages": [
+        12,
+        14
+      ],
+      "retained_spans": 74,
+      "deleted_red_spans": 3,
+      "retained_numeric_only": [
+        "16"
+      ],
+      "rule_body_chars": 3939,
+      "rule_body_sha256": "612c0d51d22e53f30d13526213dbc4c50e31261c49c0769fe6c1940d00658f2f",
+      "sequence_preserved": true,
+      "unclassified_substantive_spans": 0
+    },
+    {
+      "packet": "ERF_September",
+      "rule": "5160-27-02",
+      "pages": [
+        21,
+        26
+      ],
+      "retained_spans": 186,
+      "deleted_red_spans": 86,
+      "retained_numeric_only": [],
+      "rule_body_chars": 8875,
+      "rule_body_sha256": "8c01461c1f261facf9227ecdbe58c945db11aae7e7cbe5ef8eb351fb47630a1a",
+      "sequence_preserved": true,
+      "unclassified_substantive_spans": 0
+    },
+    {
+      "packet": "ERF_September",
+      "rule": "5160-27-03",
+      "pages": [
+        27,
+        28
+      ],
+      "retained_spans": 46,
+      "deleted_red_spans": 13,
+      "retained_numeric_only": [],
+      "rule_body_chars": 3132,
+      "rule_body_sha256": "e86dfd43a46320e7bc82a91476137c8f9da9bd25ce80d27319029cb0dd6d005c",
+      "sequence_preserved": true,
+      "unclassified_substantive_spans": 0
+    },
+    {
+      "packet": "ERF_September",
+      "rule": "5160-27-04",
+      "pages": [
+        44,
+        53
+      ],
+      "retained_spans": 183,
+      "deleted_red_spans": 204,
+      "retained_numeric_only": [],
+      "rule_body_chars": 9087,
+      "rule_body_sha256": "f9a3c231c4c3ab79369d41c0917aae6b856226a5ecb05a3fa2f9dce7483294d4",
+      "sequence_preserved": true,
+      "unclassified_substantive_spans": 0
+    },
+    {
+      "packet": "ERF_September",
+      "rule": "5160-27-06",
+      "pages": [
+        57,
+        60
+      ],
+      "retained_spans": 91,
+      "deleted_red_spans": 61,
+      "retained_numeric_only": [],
+      "rule_body_chars": 4303,
+      "rule_body_sha256": "a850705a8506912bc80d162681fb692e3c0d8b26c59fff273b3dd6a5e16ed019",
+      "sequence_preserved": true,
+      "unclassified_substantive_spans": 0
+    },
+    {
+      "packet": "ERF_September",
+      "rule": "5160-27-08",
+      "pages": [
+        65,
+        70
+      ],
+      "retained_spans": 179,
+      "deleted_red_spans": 51,
+      "retained_numeric_only": [],
+      "rule_body_chars": 8388,
+      "rule_body_sha256": "1a7d09b63f31b1e1c22dedab409d9edcb154d7015c30af649d7dbd8a30cf3402",
+      "sequence_preserved": true,
+      "unclassified_substantive_spans": 0
+    },
+    {
+      "packet": "ERF_September",
+      "rule": "5160-27-09",
+      "pages": [
+        75,
+        81
+      ],
+      "retained_spans": 244,
+      "deleted_red_spans": 65,
+      "retained_numeric_only": [],
+      "rule_body_chars": 11540,
+      "rule_body_sha256": "587cce1774410705d0701534df8b6a0328b21163af3beda149798c69ff81810e",
+      "sequence_preserved": true,
+      "unclassified_substantive_spans": 0
+    },
+    {
+      "packet": "ERF_September",
+      "rule": "5160-27-10",
+      "pages": [
+        82,
+        83
+      ],
+      "retained_spans": 54,
+      "deleted_red_spans": 9,
+      "retained_numeric_only": [],
+      "rule_body_chars": 3136,
+      "rule_body_sha256": "5f7d6da1836786114545c6f30cf9d186e020ba0507daef17169dbe5852b4a99f",
+      "sequence_preserved": true,
+      "unclassified_substantive_spans": 0
+    },
+    {
+      "packet": "ERF_September",
+      "rule": "5160-27-11",
+      "pages": [
+        84,
+        85
+      ],
+      "retained_spans": 39,
+      "deleted_red_spans": 5,
+      "retained_numeric_only": [],
+      "rule_body_chars": 1649,
+      "rule_body_sha256": "e27aa3affaae4c213a644f3753f72c6a68e367154aa49c1fbbc0d507ade127d7",
+      "sequence_preserved": true,
+      "unclassified_substantive_spans": 0
+    },
+    {
+      "packet": "ERF_September",
+      "rule": "5160-27-14",
+      "pages": [
+        86,
+        88
+      ],
+      "retained_spans": 102,
+      "deleted_red_spans": 22,
+      "retained_numeric_only": [],
+      "rule_body_chars": 4534,
+      "rule_body_sha256": "9545c55a7896dc7a6861a5e554f43791d9882c0f0081beacc22ced19d461dead",
+      "sequence_preserved": true,
+      "unclassified_substantive_spans": 0
+    },
+    {
+      "packet": "BIA_October",
+      "rule": "5160-8-05",
+      "pages": [
+        12,
+        20
+      ],
+      "retained_spans": 355,
+      "deleted_red_spans": 89,
+      "retained_numeric_only": [
+        "10"
+      ],
+      "rule_body_chars": 14788,
+      "rule_body_sha256": "a3532034432cb68e2f36c80e4466431e547c27c79b3dbf309d332aee169d98d9",
+      "sequence_preserved": true,
+      "unclassified_substantive_spans": 0
+    },
+    {
+      "packet": "BIA_October",
+      "rule": "5160-27-01",
+      "pages": [
+        21,
+        23
+      ],
+      "retained_spans": 81,
+      "deleted_red_spans": 5,
+      "retained_numeric_only": [
+        "16"
+      ],
+      "rule_body_chars": 4046,
+      "rule_body_sha256": "8535d4f4b8afaf12300b3f009c1094229e53da6d55bfb3766f6b1ed6c67ec49b",
+      "sequence_preserved": true,
+      "unclassified_substantive_spans": 0
+    },
+    {
+      "packet": "BIA_October",
+      "rule": "5160-27-02",
+      "pages": [
+        24,
+        28
+      ],
+      "retained_spans": 157,
+      "deleted_red_spans": 0,
+      "retained_numeric_only": [],
+      "rule_body_chars": 10624,
+      "rule_body_sha256": "6f97f09d7567f6d73f02925bf0a77fae7dd865855a546646a9661443d4e9bc03",
+      "sequence_preserved": true,
+      "unclassified_substantive_spans": 0
+    },
+    {
+      "packet": "BIA_October",
+      "rule": "5160-27-04",
+      "pages": [
+        40,
+        44
+      ],
+      "retained_spans": 143,
+      "deleted_red_spans": 0,
+      "retained_numeric_only": [],
+      "rule_body_chars": 9504,
+      "rule_body_sha256": "a27ea0249c7879b3b7b0c3bea71fdb40ae4f91470068bdcb14ebfad9f3db5fc5",
+      "sequence_preserved": true,
+      "unclassified_substantive_spans": 0
+    },
+    {
+      "packet": "BIA_October",
+      "rule": "5160-27-06",
+      "pages": [
+        45,
+        47
+      ],
+      "retained_spans": 78,
+      "deleted_red_spans": 0,
+      "retained_numeric_only": [],
+      "rule_body_chars": 4997,
+      "rule_body_sha256": "b1a80de588fbb4b08eaa8e8aca59c06477f4bc47826a52a95c40909e12b2b293",
+      "sequence_preserved": true,
+      "unclassified_substantive_spans": 0
+    },
+    {
+      "packet": "BIA_October",
+      "rule": "5160-27-08",
+      "pages": [
+        48,
+        51
+      ],
+      "retained_spans": 116,
+      "deleted_red_spans": 0,
+      "retained_numeric_only": [],
+      "rule_body_chars": 7347,
+      "rule_body_sha256": "dd2390592c0ca75b1690a99b72e9bcb23cdf80581c134dd370c9dd2bb53bf300",
+      "sequence_preserved": true,
+      "unclassified_substantive_spans": 0
+    },
+    {
+      "packet": "BIA_October",
+      "rule": "5160-27-09",
+      "pages": [
+        52,
+        57
+      ],
+      "retained_spans": 189,
+      "deleted_red_spans": 0,
+      "retained_numeric_only": [],
+      "rule_body_chars": 12270,
+      "rule_body_sha256": "8ba5974c4faf876041f9262825a031234286f481c56d48aeffc09ddd4dcee553",
+      "sequence_preserved": true,
+      "unclassified_substantive_spans": 0
+    },
+    {
+      "packet": "BIA_October",
+      "rule": "5160-27-10",
+      "pages": [
+        58,
+        59
+      ],
+      "retained_spans": 54,
+      "deleted_red_spans": 9,
+      "retained_numeric_only": [],
+      "rule_body_chars": 3172,
+      "rule_body_sha256": "13585c9642d3d7d83e6dcdca4a0cdffff4c6d2e272e3211bb197c85f577624e5",
+      "sequence_preserved": true,
+      "unclassified_substantive_spans": 0
+    },
+    {
+      "packet": "BIA_October",
+      "rule": "5160-27-14",
+      "pages": [
+        60,
+        62
+      ],
+      "retained_spans": 112,
+      "deleted_red_spans": 24,
+      "retained_numeric_only": [],
+      "rule_body_chars": 4589,
+      "rule_body_sha256": "a8d2fd0d8a82594cfe957436d5fbd36844f8fde4264ac2f4411f6998d6b2af82",
+      "sequence_preserved": true,
+      "unclassified_substantive_spans": 0
+    }
+  ],
+  "fee_tables": [
+    {
+      "pdf_page": 29,
+      "rows_excluding_header": 49,
+      "columns": 9,
+      "cells_independently_checked": 450,
+      "cell_mismatches": 0
+    },
+    {
+      "pdf_page": 30,
+      "rows_excluding_header": 35,
+      "columns": 9,
+      "cells_independently_checked": 324,
+      "cell_mismatches": 0
+    },
+    {
+      "pdf_page": 31,
+      "rows_excluding_header": 33,
+      "columns": 9,
+      "cells_independently_checked": 306,
+      "cell_mismatches": 0
+    },
+    {
+      "pdf_page": 32,
+      "rows_excluding_header": 28,
+      "columns": 9,
+      "cells_independently_checked": 261,
+      "cell_mismatches": 0
+    }
+  ],
+  "fee_rows": 145
+}

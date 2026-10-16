@@ -1,0 +1,297 @@
+{
+  "renderer": "marked GFM",
+  "files_checked": 59,
+  "reports": [
+    {
+      "path": "Comparisons/ERF236150_2026-10-05/BIA_Narrative_2026-10-05.md",
+      "tables": []
+    },
+    {
+      "path": "Comparisons/ERF236150_2026-10-05/current/5160-27-01.md",
+      "tables": []
+    },
+    {
+      "path": "Comparisons/ERF236150_2026-10-05/current/5160-27-02.md",
+      "tables": []
+    },
+    {
+      "path": "Comparisons/ERF236150_2026-10-05/current/5160-27-04.md",
+      "tables": []
+    },
+    {
+      "path": "Comparisons/ERF236150_2026-10-05/current/5160-27-06.md",
+      "tables": []
+    },
+    {
+      "path": "Comparisons/ERF236150_2026-10-05/current/5160-27-08.md",
+      "tables": []
+    },
+    {
+      "path": "Comparisons/ERF236150_2026-10-05/current/5160-27-09.md",
+      "tables": []
+    },
+    {
+      "path": "Comparisons/ERF236150_2026-10-05/current/5160-27-10.md",
+      "tables": []
+    },
+    {
+      "path": "Comparisons/ERF236150_2026-10-05/current/5160-27-14.md",
+      "tables": []
+    },
+    {
+      "path": "Comparisons/ERF236150_2026-10-05/current/5160-8-05.md",
+      "tables": []
+    },
+    {
+      "path": "Comparisons/ERF236150_2026-10-05/proposed/5160-27-01.md",
+      "tables": []
+    },
+    {
+      "path": "Comparisons/ERF236150_2026-10-05/proposed/5160-27-02.md",
+      "tables": []
+    },
+    {
+      "path": "Comparisons/ERF236150_2026-10-05/proposed/5160-27-04.md",
+      "tables": []
+    },
+    {
+      "path": "Comparisons/ERF236150_2026-10-05/proposed/5160-27-06.md",
+      "tables": []
+    },
+    {
+      "path": "Comparisons/ERF236150_2026-10-05/proposed/5160-27-08.md",
+      "tables": []
+    },
+    {
+      "path": "Comparisons/ERF236150_2026-10-05/proposed/5160-27-09.md",
+      "tables": []
+    },
+    {
+      "path": "Comparisons/ERF236150_2026-10-05/proposed/5160-27-10.md",
+      "tables": []
+    },
+    {
+      "path": "Comparisons/ERF236150_2026-10-05/proposed/5160-27-14.md",
+      "tables": []
+    },
+    {
+      "path": "Comparisons/ERF236150_2026-10-05/proposed/5160-8-05.md",
+      "tables": []
+    },
+    {
+      "path": "ERF236150_Current_vs_Proposed_Change_Report_2026-10-07.diff.md",
+      "tables": []
+    },
+    {
+      "path": "ERF236150_Current_vs_Proposed_Change_Report_2026-10-07.md",
+      "tables": [
+        {
+          "columns": 3,
+          "rows": 10
+        }
+      ]
+    },
+    {
+      "path": "ERF236150_Current_vs_Proposed_Change_Report_2026-10-07.text.md",
+      "tables": []
+    },
+    {
+      "path": "ERF236150_Source_Validation_2026-10-07.md",
+      "tables": [
+        {
+          "columns": 5,
+          "rows": 10
+        },
+        {
+          "columns": 2,
+          "rows": 6
+        }
+      ]
+    },
+    {
+      "path": "ORC Chapter 5119   Department of Behavioral Health.md",
+      "tables": []
+    },
+    {
+      "path": "ORC Chapter 5160   Medical Assistance Programs.md",
+      "tables": []
+    },
+    {
+      "path": "ORC Chapter 5163   Medicaid Eligibility.md",
+      "tables": []
+    },
+    {
+      "path": "ORC Chapter 5164   Medicaid State Plan Services.md",
+      "tables": []
+    },
+    {
+      "path": "ORC Chapter 5167   Medicaid Managed Care.md",
+      "tables": []
+    },
+    {
+      "path": "ORC_Refresh_Change_Report_2026-10-07.md",
+      "tables": [
+        {
+          "columns": 7,
+          "rows": 7
+        },
+        {
+          "columns": 3,
+          "rows": 8
+        }
+      ]
+    },
+    {
+      "path": "ORC_Refresh_Change_Report_2026-10-07.text.md",
+      "tables": []
+    },
+    {
+      "path": "Parse_Audit_2026-10-08/BIA_October/5160-27-01.md",
+      "tables": []
+    },
+    {
+      "path": "Parse_Audit_2026-10-08/BIA_October/5160-27-02.md",
+      "tables": []
+    },
+    {
+      "path": "Parse_Audit_2026-10-08/BIA_October/5160-27-04.md",
+      "tables": []
+    },
+    {
+      "path": "Parse_Audit_2026-10-08/BIA_October/5160-27-06.md",
+      "tables": []
+    },
+    {
+      "path": "Parse_Audit_2026-10-08/BIA_October/5160-27-08.md",
+      "tables": []
+    },
+    {
+      "path": "Parse_Audit_2026-10-08/BIA_October/5160-27-09.md",
+      "tables": []
+    },
+    {
+      "path": "Parse_Audit_2026-10-08/BIA_October/5160-27-10.md",
+      "tables": []
+    },
+    {
+      "path": "Parse_Audit_2026-10-08/BIA_October/5160-27-14.md",
+      "tables": []
+    },
+    {
+      "path": "Parse_Audit_2026-10-08/BIA_October/5160-8-05.md",
+      "tables": []
+    },
+    {
+      "path": "Parse_Audit_2026-10-08/BIA_October_All_Pages.md",
+      "tables": []
+    },
+    {
+      "path": "Parse_Audit_2026-10-08/BIA_October_Clean_Proposed_Text.md",
+      "tables": []
+    },
+    {
+      "path": "Parse_Audit_2026-10-08/BIA_October_Front_Matter.md",
+      "tables": []
+    },
+    {
+      "path": "Parse_Audit_2026-10-08/ERF_September/5160-27-01.md",
+      "tables": []
+    },
+    {
+      "path": "Parse_Audit_2026-10-08/ERF_September/5160-27-02.md",
+      "tables": []
+    },
+    {
+      "path": "Parse_Audit_2026-10-08/ERF_September/5160-27-03.md",
+      "tables": []
+    },
+    {
+      "path": "Parse_Audit_2026-10-08/ERF_September/5160-27-04.md",
+      "tables": []
+    },
+    {
+      "path": "Parse_Audit_2026-10-08/ERF_September/5160-27-06.md",
+      "tables": []
+    },
+    {
+      "path": "Parse_Audit_2026-10-08/ERF_September/5160-27-08.md",
+      "tables": []
+    },
+    {
+      "path": "Parse_Audit_2026-10-08/ERF_September/5160-27-09.md",
+      "tables": []
+    },
+    {
+      "path": "Parse_Audit_2026-10-08/ERF_September/5160-27-10.md",
+      "tables": []
+    },
+    {
+      "path": "Parse_Audit_2026-10-08/ERF_September/5160-27-11.md",
+      "tables": []
+    },
+    {
+      "path": "Parse_Audit_2026-10-08/ERF_September/5160-27-14.md",
+      "tables": []
+    },
+    {
+      "path": "Parse_Audit_2026-10-08/ERF_September/5160-8-05.md",
+      "tables": []
+    },
+    {
+      "path": "Parse_Audit_2026-10-08/ERF_September_All_Pages.md",
+      "tables": []
+    },
+    {
+      "path": "Parse_Audit_2026-10-08/ERF_September_Clean_Proposed_Text.md",
+      "tables": []
+    },
+    {
+      "path": "Parse_Audit_2026-10-08/ERF_September_Fee_Appendix_A_Notes.md",
+      "tables": []
+    },
+    {
+      "path": "Parse_Audit_2026-10-08/ERF_September_Front_Matter.md",
+      "tables": []
+    },
+    {
+      "path": "Parse_Audit_2026-10-08/README.md",
+      "tables": [
+        {
+          "columns": 6,
+          "rows": 3
+        },
+        {
+          "columns": 3,
+          "rows": 12
+        }
+      ]
+    },
+    {
+      "path": "README.md",
+      "tables": [
+        {
+          "columns": 3,
+          "rows": 6
+        }
+      ]
+    }
+  ],
+  "link_validation": {
+    "links_checked": 404,
+    "issues": []
+  },
+  "exact_ORC_source_entries_preserved": 34,
+  "exact_ERF_source_bodies_preserved": 18,
+  "independent_skill_forward_check": {
+    "rendered_tables": 2,
+    "links_checked": 16,
+    "exact_source_bodies_preserved": 2,
+    "passed": true
+  },
+  "summary_bytes": {
+    "ORC_before": 110274,
+    "ORC_after": 22240,
+    "ERF_before": 181178,
+    "ERF_after": 21817
+  }
+}
