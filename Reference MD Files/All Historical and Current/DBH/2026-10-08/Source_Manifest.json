@@ -1,0 +1,42 @@
+{
+  "retrieval_utc": "2026-10-08T13:34:45.616247+00:00",
+  "proposal_status": "Draft \u2013 Not for Filing",
+  "submission_date": "2026-10-07",
+  "comment_deadline": "2026-10-14",
+  "effective_date": null,
+  "baseline_effective_dates": {
+    "5122-29-01": "January 1, 2018",
+    "5122-29-03": "January 1, 2018",
+    "5122-29-06": "January 1, 2018",
+    "5122-29-07": "January 1, 2018",
+    "5122-29-08": "January 1, 2018",
+    "5122-29-09.1": "October 1, 2020",
+    "5122-29-10": "November 21, 2020",
+    "5122-29-12": "April 1, 2016",
+    "5122-29-13": "January 1, 2018",
+    "5122-29-15": "April 7, 2022",
+    "5122-29-16": "January 1, 2018",
+    "5122-29-17": "September 16, 2018",
+    "5122-29-18": "January 1, 2018",
+    "5122-29-19": "January 1, 2018",
+    "5122-29-22": "January 1, 2018",
+    "5122-29-27": "January 1, 2018",
+    "5122-29-28": "March 1, 2022",
+    "5122-29-29": "November 21, 2020"
+  },
+  "pdf_sources": [
+    {
+      "filename": "Service-Rules.pdf",
+      "sha256": "c696ca906efe58cbf7a55c826429f4d4179f39f8ff7e5cf03ac0b81ade8b868d"
+    },
+    {
+      "filename": "BIA-Service-Rules.pdf",
+      "sha256": "bd0d223eef71e178f0e98f848faccdb59d7f89f967c74a09edb298daf8f3107c"
+    }
+  ],
+  "limitations": [
+    "Exact September DBH body unavailable",
+    "Proposed Appendix A absent",
+    "Live DBH packet byte-match not verified"
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "retrieval_utc": "2026-10-13T18:11:00+00:00",
+  "source_url": "https://dam.assets.ohio.gov/image/upload/mha.ohio.gov/AboutUs/RulesandRegulations/Rules/Draft-Rules/Service-Rules.pdf",
+  "source_page": "https://dbh.ohio.gov/about-us/rules-and-regulations/rules/draft-rules/requirements-and-procedures-for-behavioral-health-services",
+  "description": "DBH revised Service Rules redline posted October 9, 2026 (PDF created 2026-10-09 20:07 UTC). Same stable URL as the October 7 packet; the bytes changed. 58 pages; current text struck in red, proposed text in blue; 'DRAFT - NOT FOR FILING' banner on every page. Supersedes the 50-page October 7 clean packet preserved under ../2026-10-08/pdf/Service-Rules.pdf.",
+  "proposal_status": "Draft – Not for Filing",
+  "submission_date": "2026-10-07",
+  "comment_deadline": "2026-10-14 17:00 America/New_York",
+  "effective_date": null,
+  "pdf_sources": [
+    {"filename": "Service-Rules-redline.pdf", "sha256": "d304ec6870a764fea3188753a02ff07f798991c85057a57810010884d3b531ff", "pages": 58}
+  ],
+  "bia": {"unchanged_from_2026-10-08": true, "sha256": "bd0d223eef71e178f0e98f848faccdb59d7f89f967c74a09edb298daf8f3107c"},
+  "substantive_changes_from_2026-10-07_packet": [
+    "5122-29-18(B): 'adults' -> 'individuals' with a mental health diagnosis",
+    "5122-29-03: re-lettered; Appendix A now (B), ASAM (B)(1)-(2), assessment (C), counseling (D), medical (E)",
+    "5122-29-27(C)(1): now repeats the (C) lead-in; the service-name/description item is gone (apparent drafting error)",
+    "5122-29-17: heading still reads CPST over PSR text; (D)-(E) print twice (pp. 43-44)",
+    "5122-29-28(I): 'OhioMHAS' remains",
+    "Typos fixed: 15(A) 'substance us', 16(C) 'organization ed', several in 5122-29-12; typo introduced: 15(I) 'employeed'"
+  ]
+}
