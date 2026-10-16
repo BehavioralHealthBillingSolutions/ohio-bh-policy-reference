@@ -1,0 +1,14 @@
+/* Shared change-type presentation across all report pages. */
+.badge.change-type{display:inline-block;padding:3px 11px;border-radius:999px;font-size:11px;font-weight:600;line-height:1.5;letter-spacing:.03em;text-transform:uppercase;max-width:100%;box-sizing:border-box;white-space:normal}
+.badge.change-type[data-change-type="substantive"]{background:#fef3c7;color:#854d0e}
+.badge.change-type[data-change-type="clarification"]{background:#dbeafe;color:#1e40af}
+.badge.change-type[data-change-type="editorial"]{background:#f1f5f9;color:#475569}
+.badge.change-type[data-change-type="newly-operative"]{background:#dcfce7;color:#166534}
+section > .change-type + h2,section > .change-type + h3,.pane-body > .change-type + .rt{margin-top:10px}
+.change-detail{font-size:13px;line-height:1.5;color:var(--gray-text,#475569);margin:0 0 14px}
+.change-key{margin:18px 0;padding:12px 16px;border:1px solid #e2e8f0;border-radius:12px;background:#fff}
+.change-key summary{cursor:pointer;font-size:13px;font-weight:600;color:#334155}
+.change-key-items{display:flex;flex-wrap:wrap;gap:10px 20px;margin-top:12px}
+.change-key-items > span{display:flex;align-items:center;gap:8px;flex-wrap:wrap;font-size:12px;color:#475569}
+.change-key p{font-size:12px;color:#475569;margin:10px 0 0;line-height:1.5}
+@media print{.badge.change-type{print-color-adjust:exact;-webkit-print-color-adjust:exact}.change-key{break-inside:avoid}}

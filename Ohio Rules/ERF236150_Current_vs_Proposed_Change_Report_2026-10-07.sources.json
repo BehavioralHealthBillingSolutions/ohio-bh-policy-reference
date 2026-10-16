@@ -1,0 +1,134 @@
+{
+  "mode": "current-versus-proposed",
+  "as_of": "October 7, 2026 America/New_York",
+  "entry_count": 9,
+  "sources": [
+    {
+      "id": "5160-8-05",
+      "side": "current",
+      "path": "Comparisons/ERF236150_2026-10-05/current/5160-8-05.md",
+      "sha256": "23d85d2d95c65d7e4c3ad0b810a2f20fc3624a2157682ef6752d94e6054e44e4",
+      "rule_body_sha256": "0bc9267dd253d968c7c621cc37336500d3563f4678eaf7494712339d09dfba8c"
+    },
+    {
+      "id": "5160-8-05",
+      "side": "target",
+      "path": "Comparisons/ERF236150_2026-10-05/proposed/5160-8-05.md",
+      "sha256": "96f919a8bd6d1b77129596125efdac55cfa425d86154143144f058a981719be0",
+      "rule_body_sha256": "a3532034432cb68e2f36c80e4466431e547c27c79b3dbf309d332aee169d98d9"
+    },
+    {
+      "id": "5160-27-01",
+      "side": "current",
+      "path": "Comparisons/ERF236150_2026-10-05/current/5160-27-01.md",
+      "sha256": "70bd11710ea81f72138f4e404da39a34fe40a45850cb82261f8dd7f51abd1ef2",
+      "rule_body_sha256": "c9f5f37e6b7c4114adb794eefa879c9610250571245e0a58159545baa0dcd2cb"
+    },
+    {
+      "id": "5160-27-01",
+      "side": "target",
+      "path": "Comparisons/ERF236150_2026-10-05/proposed/5160-27-01.md",
+      "sha256": "aee39c4dc5a69bc3de0029c9d29c0e96f51294c2d16bcf8e6cb202df753ba4cb",
+      "rule_body_sha256": "8535d4f4b8afaf12300b3f009c1094229e53da6d55bfb3766f6b1ed6c67ec49b"
+    },
+    {
+      "id": "5160-27-02",
+      "side": "current",
+      "path": "Comparisons/ERF236150_2026-10-05/current/5160-27-02.md",
+      "sha256": "956d90e058d50e8f0a2f78e53dfe7ac0fd87b39337f53253b0214c1610ca90f3",
+      "rule_body_sha256": "c89e9dd1af6d90ed7904b53ff7baf6c2a5f063a46ffe0f85216131c9eb02521c"
+    },
+    {
+      "id": "5160-27-02",
+      "side": "target",
+      "path": "Comparisons/ERF236150_2026-10-05/proposed/5160-27-02.md",
+      "sha256": "f298290ecd04f25222d08a01876cf1ea673cb928c717af01759fd7a112b45b77",
+      "rule_body_sha256": "6f97f09d7567f6d73f02925bf0a77fae7dd865855a546646a9661443d4e9bc03"
+    },
+    {
+      "id": "5160-27-04",
+      "side": "current",
+      "path": "Comparisons/ERF236150_2026-10-05/current/5160-27-04.md",
+      "sha256": "08ee5a5cd62249c85a3123da059bdae50facc3b1ac0f4548a953901731ae128c",
+      "rule_body_sha256": "25570a667b2103e1ad56748f0c4b9f9140b75908a109bb2933046f0d24042902"
+    },
+    {
+      "id": "5160-27-04",
+      "side": "target",
+      "path": "Comparisons/ERF236150_2026-10-05/proposed/5160-27-04.md",
+      "sha256": "77fe29e0e6d33bea9601556e128a6f1e3addbd8ab77acea396af60ebbd654d2b",
+      "rule_body_sha256": "a27ea0249c7879b3b7b0c3bea71fdb40ae4f91470068bdcb14ebfad9f3db5fc5"
+    },
+    {
+      "id": "5160-27-06",
+      "side": "current",
+      "path": "Comparisons/ERF236150_2026-10-05/current/5160-27-06.md",
+      "sha256": "d8241ceb956c0a6c110dd2b021710572b54a40215bd4d75a95c929a0faac0a4d",
+      "rule_body_sha256": "f44307c71dbc598bf2268bf942976bed735231f4f21ee45ecde69e21087213bf"
+    },
+    {
+      "id": "5160-27-06",
+      "side": "target",
+      "path": "Comparisons/ERF236150_2026-10-05/proposed/5160-27-06.md",
+      "sha256": "651b5c1390262f058e46289d9c4dc9da6d84cb951b47d19b571039b3c545e4c2",
+      "rule_body_sha256": "b1a80de588fbb4b08eaa8e8aca59c06477f4bc47826a52a95c40909e12b2b293"
+    },
+    {
+      "id": "5160-27-08",
+      "side": "current",
+      "path": "Comparisons/ERF236150_2026-10-05/current/5160-27-08.md",
+      "sha256": "5bcc4851bd0015b60916946f1ecd29944736c72de9d7104373ae3e4aba068352",
+      "rule_body_sha256": "b0bcb46d15fc9c9c952aecb1cee6a2fbf257ca6a1e1093ffc9184fbc36b48a7d"
+    },
+    {
+      "id": "5160-27-08",
+      "side": "target",
+      "path": "Comparisons/ERF236150_2026-10-05/proposed/5160-27-08.md",
+      "sha256": "82aaaf420fa24761d1280f0e73a9189f7743fe6aeac241141f4e853a4b449771",
+      "rule_body_sha256": "dd2390592c0ca75b1690a99b72e9bcb23cdf80581c134dd370c9dd2bb53bf300"
+    },
+    {
+      "id": "5160-27-09",
+      "side": "current",
+      "path": "Comparisons/ERF236150_2026-10-05/current/5160-27-09.md",
+      "sha256": "18f1fdf60f16f43ce536cb1136b14ad0dbd195ad8199358397474b108d29bd90",
+      "rule_body_sha256": "d2bfb5d7737892eb560bb97805f1c54ffa52a5bb35731d85eeae69652936f23f"
+    },
+    {
+      "id": "5160-27-09",
+      "side": "target",
+      "path": "Comparisons/ERF236150_2026-10-05/proposed/5160-27-09.md",
+      "sha256": "caf2c0a4fd95198f2d1cc1b91f3add1a80dd9fb1d6f7be8d78365a346342b94c",
+      "rule_body_sha256": "8ba5974c4faf876041f9262825a031234286f481c56d48aeffc09ddd4dcee553"
+    },
+    {
+      "id": "5160-27-10",
+      "side": "current",
+      "path": "Comparisons/ERF236150_2026-10-05/current/5160-27-10.md",
+      "sha256": "f1f20c5da0f7336d34a1a3651de2ef0e0843a6208c50e6bfcdf6b4069db047ad",
+      "rule_body_sha256": "210089d754ee1249290d1778dfb028e9a43829fcad5520b0f90bc0071adaf0c1"
+    },
+    {
+      "id": "5160-27-10",
+      "side": "target",
+      "path": "Comparisons/ERF236150_2026-10-05/proposed/5160-27-10.md",
+      "sha256": "4b7bb9f1466f06d57163a727d6fd15f54bb6f54b04703e9847789320dae87f5f",
+      "rule_body_sha256": "13585c9642d3d7d83e6dcdca4a0cdffff4c6d2e272e3211bb197c85f577624e5"
+    },
+    {
+      "id": "5160-27-14",
+      "side": "current",
+      "path": "Comparisons/ERF236150_2026-10-05/current/5160-27-14.md",
+      "sha256": "5f44b8f5fedb84523b01be544508033dabf2cfefda039cd993ca0a455337367a",
+      "rule_body_sha256": "88fb0765c149cdeb7db770db933d449873252b2637ee3ec58660105b67b0124c"
+    },
+    {
+      "id": "5160-27-14",
+      "side": "target",
+      "path": "Comparisons/ERF236150_2026-10-05/proposed/5160-27-14.md",
+      "sha256": "94de6922aafaaeaa7a6f61c484f5e59d2229b2e3b4c0c4ca763d0d27dbde40a1",
+      "rule_body_sha256": "a1fd07a89e81be11a538804c8b3f084ff57f4c69e65d58e533cd6b8847d8d399",
+      "note": "Re-hashed 2026-10-14 after correcting an extraction error: the word \"Code\" in (E)(1)(c) (\"of the Administrative Code unless the recipient...\") had been dropped; the packet (p. 62) retains it. Source text otherwise unchanged."
+    }
+  ]
+}

@@ -1,0 +1,243 @@
+# Ohio Laws Extract
+
+Source: codes.ohio.gov
+
+Retrieved: October 07, 2026
+
+Documents: 1
+
+---
+
+## Rule 5160-8-05 | Behavioral health services-other licensed professionals.
+
+[Current-versus-proposed comparison](ERF236150_Current_vs_Proposed_Change_Report_2026-10-07.md#policy-5160-8-05)
+
+URL: https://codes.ohio.gov/ohio-administrative-code/rule-5160-8-05
+
+**Effective:** January 1, 2021  
+**Promulgated Under:** 119.03  
+
+- (A) Scope. This rule sets forth provisions governing payment for behavioral health services provided by certain licensed professionals in non-institutional settings.
+
+    - (1) Provisions governing payment for behavioral health services as the following service types are set forth in the indicated part of the Administrative Code:
+
+        - (a) Cost-based clinic services, Chapter 5160-28; and
+
+        - (b) Medicaid school program services, Chapter 5160-35.
+
+    - (2) For services provided in a nursing facility, the cost for behavioral health services are paid directly to the provider of services and not through the nursing facility per diem rate.
+
+- (B) Definitions for the purposes of this rule.
+
+    - (1) "Behavioral health service" is a service or procedure that is performed for the diagnosis and treatment of mental, behavioral, substance use, or emotional disorders by a licensed professional or under the supervision of a licensed professional. As it is used in this rule, the term includes neither psychiatry nor medication management.
+
+    - (2) "Licensed psychologist" has the same meaning as in section 4732.01 of the Revised Code.
+
+    - (3) "Independent practitioner" is a collective term used in this rule to designate the following persons who hold a valid license to practice in accordance with the indicated portion of the Revised Code:
+
+        - (a) Licensed professional clinical counselor, section 4757.22;
+
+        - (b) Licensed independent social worker, section 4757.27;
+
+        - (c) Licensed independent marriage and family therapist, section 4757.30;
+
+        - (d) Licensed independent chemical dependency counselor, rule 4758-4-01 of the Administrative Code; and
+
+        - (e) School psychologist licensed by the state board of psychology has the same meaning as in rule 4732-3-01 of the Administrative Code and who is engaged in the "practice of school psychology" as that term is defined in section 4732.01 of the Revised Code.
+
+    - (4) "Supervised practitioner" is a collective term used in this rule to designate the following persons who hold a valid license to practice under general supervision in accordance with the indicated portion of the Revised Code:
+
+        - (a) Licensed professional counselor, section 4757.23;
+
+        - (b) Licensed social worker, section 4757.28;
+
+        - (c) Licensed marriage and family therapist, section 4757.30;
+
+        - (d) Licensed chemical dependency counselor II, rule 4758-4-01 of the Administrative Code; and
+
+        - (e) Licensed chemical dependency counselor III, rule 4758-4-01 of the Administrative Code.
+
+    - (5) "Supervised trainee" is a collective term used in this rule to designate the following individuals who can operate under the general or direct supervision of a licensed practitioner:
+
+        - (a) Registered counselor trainee, defined in rule 4757-13-09 of the Administrative Code;
+
+        - (b) Registered social work trainee, defined in rule 4757-19-05 of the Administrative Code;
+
+        - (c) Marriage and family therapist trainee, defined in rule 4757-25-08 of the Administrative Code;
+
+        - (d) Chemical dependency counselor assistant, defined in rule 4758-4-01 of the Administrative Code; and
+
+        - (e) Any individual registered with the Ohio board of psychology in compliance with requirements in rule 4732-13-04 of the Administrative Code, working under the supervision of a licensed psychologist, and assigned by the supervising psychologist a title appearing in rule 4732-13-03 of the Administrative Code, such as "assistant," "psychology assistant," "psychology intern," "psychology fellow," or "psychology resident."
+
+    - (6) "General supervision" is defined as the supervising practitioner being available by phone to provide assistance as needed.
+
+    - (7) "Direct supervision" is defined as the supervising practitioner being immediately available and interruptible to provide assistance as needed.
+
+    - (8) "Independent practice" is a business arrangement in which a professional is not subject to the administrative and professional control of an employer such as an institution, physician, or agency. In particular, a professional working from an office that is located within an entity is considered to be in independent practice when both of the following conditions are met:
+
+        - (a) The part of the entity constituting the office of the professional is used solely for that purpose and is separately identifiable from the rest of the facility; and
+
+        - (b) The professional maintains a private practice (i.e., offers services to the general public as well as to the customers, residents, or patients of the entity), and the practice is not owned, either in part or in total, by the entity.
+
+- (C) Provider requirements.
+
+    - (1) A licensed psychologist or licensed independent practitioner must be enrolled in the medicaid program as an eligible provider, even if services are rendered under the supervision of another eligible provider.
+
+    - (2) A licensed psychologist in independent practice or independent practitioner in independent practice who can participate in the medicare program either must do so or, if the practice is limited to pediatric treatment, must meet all requirements for medicare participation other than serving medicare beneficiaries.
+
+- (D) Coverage.
+
+    - (1) Payment may be made for the following behavioral health services:
+
+        - (a) Psychiatric diagnostic evaluation;
+
+        - (b) Psychological and neuropsychological testing;
+
+        - (c) Assessment and behavior change intervention:
+
+            - (i) Alcohol or substance (other than tobacco) abuse, structured assessment and brief intervention, fifteen to thirty minutes;
+
+            - (ii) Alcohol or substance (other than tobacco) abuse, structured assessment and intervention, greater than thirty minutes;
+
+        - (d) Therapeutic services:
+
+            - (i) Individual psychotherapy:
+
+                - (a) Psychotherapy, thirty minutes with patient and/or family member;
+
+                - (b) Psychotherapy, forty-five minutes with patient and/or family member;
+
+                - (c) Psychotherapy, sixty minutes with patient and/or family member;
+
+                - (d) Psychotherapy for crisis, first sixty minutes;
+
+                - (e) Psychotherapy for crisis, each additional thirty minutes; and
+
+                - (f) Interactive complexity (reported separately in addition to the primary procedure);
+
+            - (ii) Family psychotherapy for which the primary purpose is the treatment of the patient and not family members:
+
+                - (a) Family psychotherapy without patient present; and
+
+                - (b) Family psychotherapy with patient present;
+
+            - (iii) Group psychotherapy:
+
+                - (a) Group psychotherapy; and
+
+                - (b) Multiple-family group psychotherapy;
+
+            - (iv) Interactive complexity
+
+            - (v) Prolonged service
+
+    - (2) Payment may be made to the following eligible providers for a behavioral health service rendered as indicated:
+
+        - (a) To a physician, group practice, clinic, or a community behavioral health center that meets the requirements found in rule 5160-27-01 of the Administrative Code, for a behavioral health service rendered by a licensed psychologist, or independent practitioner, employed by or under contract with the physician group practice, clinic or community behavioral health center;
+
+        - (b) To a physician group practice, clinic, a community behavioral health center that meets the requirements found in rule 5160-27-01 of the Administrative Code, physician, advanced practice registered nurse, physician assistant, licensed psychologist in independent practice or independent practitioner in independent practice for a behavioral health service rendered by a supervised practitioner or supervised trainee under general supervision of the supervising practitioner who was, at a minimum, available by phone to provide assistance as needed.
+
+        - (c) To a physician group practice, clinic, a community behavioral health center that meets the requirements found in rule 5160-27-01 of the Administrative Code, physician, advanced practice registered nurse, physician assistant, licensed psychologist in independent practice or independent practitioner in independent practice for a behavioral health service rendered by a supervised trainee under direct supervision if the following conditions are met:
+
+            - (i) The professional responsible for the patient's care has contact with the patient during the initial visit and contact not less often than once per quarter (or during each visit if visits are scheduled more than three months apart).
+
+            - (ii) The professional responsible for the patient's care reviews and updates the patient's medical record at least once after each treatment visit.
+
+        - (d) To a physician, advanced practice registered nurse, physician assistant, licensed psychologist in independent practice, or independent practitioner in independent practice for a behavioral health service personally rendered by that health care professional;
+
+    - (3) The following coverage limits, which may be exceeded only with prior authorization from the ODM designated entity, are established for behavioral health services provided to a medicaid recipient.
+
+        - (a) For diagnostic evaluation, one encounter, per code, per billing provider, per recipient, per calendar year, not on the same date of service as a therapeutic visit;
+
+        - (b) For psychological testing a maximum of twelve hours per recipient, per calendar year; and
+
+        - (c) For neuropsychological testing, a maximum of eight hours per recipient, per calendar year;
+
+        - (d) For screening, brief intervention and referral to treatment for substance use disorder, one of each code, per billing provider, per recipient, per calendar year.
+
+- (E) Constraints.
+
+    - (1) Every behavioral health service reported on a claim must be within the scope of practice of the licensed professional, with appropriate certification and/or training for the service, who renders or supervises it and must be performed in accordance with any supervision requirements established in law, regulation, statute, or rule.
+
+    - (2) No payment will be made under this rule for the following activities:
+
+        - (a) Services that are rendered by an unlicensed individual other than a supervised trainee;
+
+        - (b) Activities, testing, or diagnosis conducted for purposes specifically related to education;
+
+        - (c) Services that are unrelated to the treatment of a specific behavioral health diagnosis but serve primarily to enhance skills or to provide general information, examples of which are given in the following non-exhaustive list:
+
+            - (i) Encounter groups, workshops, marathon sessions, or retreats;
+
+            - (ii) Sensitivity training;
+
+            - (iii) Sexual competency training;
+
+            - (iv) Recreational therapy (e.g., art, play, dance, music);
+
+            - (v) Services intended primarily for social interaction, diversion, or sensory stimulation; and
+
+            - (vi) The teaching or monitoring of activities of daily living (such as grooming and personal hygiene);
+
+        - (d) Psychotherapy services if the patient cannot establish a relationship with the provider because of a cognitive deficit;
+
+        - (e) Family therapy for the purpose of training family members or caregivers in the management of the patient; and
+
+        - (f) Self-administered or self-scored tests of cognitive function.
+
+- (F) Documentation of services.
+
+    - (1) The patient's medical record must substantiate the medical necessity of services performed, and each record is expected to bear the signature and indicate the discipline of the professional who recorded it.
+
+        - (a) All relevant diagnoses pertaining to medical or physical conditions as well as to behavioral health;
+
+        - (b) A treatment plan which must be completed within five sessions or one month of admission, whichever is longer and must specify mutually agreed upon treatment goals, track responses to ongoing treatment, and present a prognosis that documents that the plan has been reviewed with the patient and, as appropriate, with family members, parents, legal guardians or custodians or significant others;.
+
+        - (c) The inability or refusal of the patient to participate in treatment planning or services must be documented and the reason given.
+
+        - (d) Test results, if applicable, with interpretation;
+
+        - (e) Evidence that the patient has sufficient cognitive capacity to benefit from treatment; and
+
+        - (f) Discharge summaries which include date of admission, date of last service, outcome of the service and recommendations and referrals made to the patient.
+
+    - (2) The following items must be included as progress note documentation and shall be completed at a minimum on a per provision basis, or on a daily or weekly basis:
+
+        - (a) The type, description, date, time of day, duration, location and, if documenting weekly services, the frequency of treatment, with dates of service;
+
+        - (b) A description of the patient's current symptoms and changes in functional impairment;
+
+        - (c) Changes in medications taken by or prescribed for the patient when applicable;
+
+        - (d) The amount of time spent by the provider with the patient;
+
+        - (e) The amount of time spent by the provider in interpreting and reporting on procedures represented by "Central Nervous System Testing" codes, when applicable;
+
+        - (f) Progress notes shall include assessment of the patient's progress or lack of progress and a brief description of the progress made, if any, significant changes in symptoms, functioning, or events in the life of the patient and recommendation for modifications to the treatment plan, if applicable; and
+
+        - (g) Evidence of clinical supervision, as required.
+
+- (G) Claim payment.
+
+- The payment amount for a behavioral health service rendered by a community behavioral health center that meets the requirements found in rule 5160-27-01 of the Administrative Code is the lesser of the provider's submitted charge or the amount specified in rule 5160-27-03 of the Administrative Code. For all other providers of behavioral health services, the payment amount is the lesser of the provider's submitted charge or the applicable percentage of the amount specified in the appendix to rule 5160-1-60 of the Administrative Code:
+
+    - (1) For testing, one hundred per cent;
+
+    - (2) For a behavioral health service other than testing, the percentage differs according to the provider who rendered it:
+
+        - (a) For a service rendered by a physician, an advanced practice registered nurse, a physician assistant, or a licensed psychologist, it is one hundred per cent.
+
+        - (b) For a service rendered by a licensed practitioner or a supervised practitioner, it is eighty-five per cent.
+
+        - (c) For a service rendered by a supervised trainee/assistant under direct supervision, the rate of their supervising practitioner.
+
+        - (d) For a service rendered by a supervised trainee/assistant under general supervision, it is eighty-five per cent of the rate of their supervising practitioner.
+
+### Supplemental Information
+
+**Authorized By:** 5164.02  
+**Amplifies:** 5164.02 , 5164.03  
+**Five Year Review Date:** 12/27/2023  
+**Prior Effective Dates:** 2/17/1991, 11/1/2001, 7/1/2002, 8/17/2003, 10/1/2003, 1/1/2004, 12/30/2005 (Emer.), 3/27/2006, 1/1/2008, 12/31/2012 (Emer.), 3/28/2013, 1/1/2014, 2/1/2016, 6/30/2016 (Emer.), 10/29/2016, 1/1/2018, 1/2/2018 (Emer.), 5/3/2018, 8/1/2019 (Emer.), 11/29/2019, 6/12/2020 (Emer.)  
+
+---

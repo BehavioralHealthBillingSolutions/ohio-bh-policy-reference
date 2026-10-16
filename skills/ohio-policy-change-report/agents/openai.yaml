@@ -1,0 +1,14 @@
+interface:
+  display_name: Ohio Policy Change Report
+  short_description: Linked policy refresh and proposed-rule impact reports
+  default_prompt: Use $ohio-policy-change-report to compare Ohio policy sources and
+    produce a linked change and impact report.
+  icon_small: assets/icon.svg
+  icon_large: assets/icon.svg
+policy:
+  products:
+  - chatgpt
+  - codex
+  - api
+  - atlas
+  allow_implicit_invocation: true

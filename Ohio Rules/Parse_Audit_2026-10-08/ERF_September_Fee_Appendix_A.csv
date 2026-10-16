@@ -1,0 +1,146 @@
+pdf_page,pdf_table_row,HCPCS code,Modifier,Description,Printed effective date,Status code,Current maximum payment,Office maximum payment,Home/community maximum payment,Allowable places of service
+29,1,90785,,Psytx complex interactive,1/1/2024,1,15.57,,,POS must be the same as the base code
+29,2,90791,,Psych diagnostic evaluation,1/1/2027,1,147.39,,,"03, 04, 09, 11, 12, 13, 14, 16, 18, 31, 32, 99; MH also has 53; SUD also has 57"
+29,3,90792,,Psych diag eval w/med srvcs,1/1/2027,1,162.75,,,"03, 04, 09, 11, 12, 13, 14, 16, 18, 31, 32, 99; MH also has 53; SUD also has 57"
+29,4,90832,,Psytx pt&/family 30 minutes,1/1/2024,1,71.16,,,"03, 04, 11, 12, 13, 14, 16, 18, 31, 32, 34, 99; MH also has 53; SUD also has 57"
+29,5,90832,KX,Psytx pt&/family 30 minutes,1/1/2024,1,92.50,,,"03, 04, 11, 12, 13, 14, 16, 18, 23, 31, 32, 34, 99; MH also has 53; SUD also has 57"
+29,6,90833,,Psytx pt&/fam w/e&m 30 min,1/1/2024,1,73.70,,,"03, 04, 11, 12, 13, 14, 16, 18, 31, 32, 34, 99; MH also has 53; SUD also has 57"
+29,7,90834,,Psytx pt&/family 45 minutes,1/1/2024,1,92.51,,,"03, 04, 11, 12, 13, 14, 16, 18, 31, 32, 34, 99; MH also has 53; SUD also has 57"
+29,8,90836,,Psytx pt&/fam w/e&m 45 min,1/1/2024,1,93.62,,,"03, 04, 11, 12, 13, 14, 16, 18, 31, 32, 34, 99; MH also has 53; SUD also has 57"
+29,9,90837,,Psytx pt&/family 60 minutes,1/1/2024,1,135.71,,,"03, 04, 11, 12, 13, 14, 16, 18, 31, 32, 34, 99; MH also has 53; SUD also has 57"
+29,10,90838,,Psytx pt&/fam w/e&m 60 min,1/1/2024,1,123.50,,,"03, 04, 11, 12, 13, 14, 16, 18, 31, 32, 34, 99; MH also has 53; SUD also has 57"
+29,11,90839,,Psytx crisis initial 60 min,1/1/2024,1,193.59,,,"01, 03, 04, 11, 12, 13, 14, 15, 16, 17, 18, 20, 23, 24, 25, 31, 32, 33, 34, 41, 42, 99; MH also has 53; SUD also has 57"
+29,12,90840,,Psytx crisis ea addl 30 min,1/1/2024,1,92.40,,,"01, 03, 04, 11, 12, 13, 14, 15, 16, 17, 18, 20, 23, 24, 25, 31, 32, 33, 34, 41, 42, 99; MH also has 53; SUD also has 57"
+29,13,90846,,Family psychotherapy (w/o patient),1/1/2024,1,115.32,,,"03, 04, 11, 12, 13, 14, 16, 31, 32, 34, 99; MH also has 53; SUD also has 57"
+29,14,90847,,Family psychotherapy (with patient),1/1/2024,1,113.56,,,"03, 04, 11, 12, 13, 14, 16, 31, 32, 34, 99; MH also has 53; SUD also has 57"
+29,15,90849,,Multiple-family group psychotherapy,1/1/2024,1,45.84,,,"03, 04, 11, 12, 13, 14, 16, 31, 32, 34; MH also has 53; SUD also has 57"
+29,16,90853,,Group psychotherapy (other than multiple-family group),1/1/2024,1,37.31,,,"03, 04, 11, 12, 13, 14, 16, 31, 32, 34, 99; MH also has 53; SUD also has 57"
+29,17,93000,,"Electrocardiogram, complete",1/1/2024,1,17.49,,,"11, MH also has 53; SUD also has 55, 57"
+29,18,93005,,"Electrocardiogram, tracing",1/1/2024,1,7.59,,,"11, MH also has 53; SUD also has 55, 57"
+29,19,93010,,Electrocardiogram report,1/1/2024,1,8.69,,,"11, MH also has 53; SUD also has 55, 57"
+29,20,96112,,"Developmental testing with interpretation & report, first 60 mins",1/1/2027,1,63.26,,,"03, 04, 09, 11, 12, 13, 14, 16, 31; MH also has 53; SUD also has 57"
+29,21,96113,,"Developmental testing with interpretation & report, add'l 60 mins",1/1/2027,1,31.64,,,"03, 04, 09, 11, 12, 13, 14, 16, 31; MH also has 53; SUD also has 57"
+29,22,96116,,"Neurobehavioral status exam, first 60 mins",1/1/2027,1,72.27,,,"03, 04, 09, 11, 12, 13, 14, 16, 31; MH also has 53; SUD also has 57"
+29,23,96121,,"Neurobehavioral status exam, add'l 60 mins",1/1/2024,1,72.27,,,"03, 04, 11, 12, 13, 14, 16, 31; MH also has 53; SUD also has 57"
+29,24,96130,,"Psychological testing evaluation, first 60 mins",1/1/2027,1,66.82,,,"03, 04, 09, 11, 12, 13, 14, 16, 31; MH also has 53; SUD also has 57"
+29,25,96131,,"Psychological testing evaluation, add'l 60 mins",1/1/2027,1,66.82,,,"03, 04, 09, 11, 12, 13, 14, 16, 31; MH also has 53; SUD also has 57"
+29,26,96132,,"Neuropsychological testing evaluation, first 60 mins",1/1/2027,1,109.78,,,"03, 04, 09, 11, 12, 13, 14, 16, 31; MH also has 53; SUD also has 57"
+29,27,96133,,"Neuropsychological testing evaluation, add'l60 mins",1/1/27,1,88.29,,,"03, 04, 09, 11, 12, 13, 14, 16, 31; MH also has 53; SUD also has 57"
+29,28,96136,,"Psych or neuro psych test administration, first 30 mins",1/1/27,1,34.79,,,"03, 04, 09, 11, 12, 13, 14, 16, 31; MH also has 53; SUD also has 57"
+29,29,96137,,"Psych or neuro psych test administration, add'l 30 mins",1/1/27,1,32.01,,,"03, 04, 09, 11, 12, 13, 14, 16, 31; MH also has 53; SUD also has 57"
+29,30,96372,,"Ther/proph/diag inj, sc/im",1/1/2024,1,23.53,,,"03, 04, 11, 12, 14, 16,18, MH also has 53; SUD also has 57"
+29,31,99202,,"Office/outpatient visit, new",1/1/2027,1,93.14,,,"09, 11, 13, 31, 32; MH also has 53; SUD also has 57"
+29,32,99203,,"Office/outpatient visit, new",1/1/2024,1,135.22,,,"09, 11, 13, 31, 32; MH also has 53; SUD also has 57"
+29,33,99204,,"Office/outpatient visit, new",1/1/2024,1,207.36,,,"09, 11, 13, 31, 32; MH also has 53; SUD also has 57"
+29,34,99205,,"Office/outpatient visit, new",1/1/2024,1,260.61,,,"09, 11, 13, 31, 32; MH also has 53; SUD also has 57"
+29,35,99211,,"Office/outpatient visit, est",1/1/2024,1,24.54,,,"09, 11, 13, 31, 32; MH also has 53; SUD also has 57"
+29,36,99212,,"Office/outpatient visit, est",1/1/2024,1,53.87,,,"09, 11, 13, 31, 32; MH also has 53; SUD also has 57"
+29,37,99213,,"Office/outpatient visit, est",1/1/2024,1,91.14,,,"09, 11, 13, 31, 32; MH also has 53; SUD also has 57"
+29,38,99214,,"Office/outpatient visit, est",1/1/2024,1,134.50,,,"09, 11, 13, 31, 32; MH also has 53; SUD also has 57"
+29,39,99215,,"Office/outpatient visit, est",1/1/2024,1,181.67,,,"09, 11, 13, 31, 32; MH also has 53; SUD also has 57"
+29,40,99341,,"Home visit, new patient",1/1/2024,1,70.02,,,"04, 12, 13, 14, 16, 33, 55"
+29,41,99342,,"Home visit, new patient",1/1/2024,1,101.09,,,"04, 12, 13, 14, 16, 33, 55"
+29,42,99344,,"Home visit, new patient",1/1/2024,1,231.86,,,"04, 12, 13, 14, 16, 33, 55"
+29,43,99345,,"Home visit, new patient",1/1/2024,1,281.13,,,"04, 12, 13, 14, 16, 33, 55"
+29,44,99347,,"Home visit, established patient",1/1/2024,1,70.40,,,"04, 12, 13, 14, 16, 33, 55"
+29,45,99348,,"Home visit, established patient",1/1/2024,1,107.12,,,"04, 12, 13, 14, 16, 33, 55"
+29,46,99349,,"Home visit, established patient",1/1/2024,1,162.98,,,"04, 12, 13, 14, 16, 33, 55"
+29,47,99350,,"Home visit, established patient",1/1/2024,1,226.37,,,"04, 12, 13, 14, 16, 33, 55"
+29,48,99406,,"Smoking and tobacco use cessation counseling, intermediate",1/1/2024,1,10.37,,,"03, 04, 11, 12, 13, 14, 16, 18, 31, 32, 34, 99; MH also has 53; SUD also has 57"
+29,49,99407,,"Smoking and tobacco use cessation counseling, intensive",1/1/2024,1,20.90,,,"03, 04, 11, 12, 13, 14, 16, 18, 31, 32, 34, 99; MH also has 53; SUD also has 57"
+30,1,99415,,"Prolonged service, E&M, first hour",1/1/2024,1,12.03,,,POS must be the same as the base code
+30,2,99416,,"Prolonged service, E&M, additional 30 minutes",1/1/2024,1,6.18,,,POS must be the same as the base code
+30,3,99417,,Prolonged service for codes 99205 and 99215,1/1/2024,1,42.38,,,POS must be the same as the base code
+30,4,G0396,,Alc/Sub. Abuse test inter. 15-30 min,1/1/2027,1,27.56,,,"03, 04, 09, 11, 12, 13, 14, 16, 31, 32, 53"
+30,5,G0397,,Alc/Sub. Abuse test inter. over 30 min,1/1/2027,1,52.45,,,"03, 04, 09, 11, 12, 13, 14, 16, 31, 32, 53"
+30,6,G2212,,"Prolonged service, every 15 minutes",1/1/2024,1,42.38,,,POS must be the same as the base code
+30,7,H0001,,Alcohol and/or drug assessment (not incident to a licensed practitioner's assessment).,1/1/2024,1,87.07,,,"03, 04, 11, 12, 13, 14, 16, 18, 23, 31, 32, 34, 57, 99"
+30,8,H0001,,Alcohol and/or drug assessment (not incident to a licensed practitioner's assessment).,1/1/2027,1,,,,
+30,9,H0005,,Alcohol and/or drug services; group counseling (unlicensed),1/1/2024,1,9.44,,,"03, 04, 11, 12, 13, 14, 16, 31, 32, 34, 57, 99"
+30,10,H0005,HK,Alcohol and/or drug services; group counseling (licensed),1/1/2024,1,10.56,,,"03, 04, 11, 12, 13, 14, 16, 31, 32, 34, 57, 99"
+30,11,H0005,AF,Alcohol and/or drug services; group counseling (physician),1/1/2024,1,12.43,,,"03, 04, 11, 12, 13, 14, 16, 31, 32, 34, 57, 99"
+30,12,H0006,,Alcohol and/or drug services; case management,1/1/2024,1,22.03,,,"03, 04, 09, 11, 12, 13, 14, 16, 18, 23, 31, 32, 33, 34, 57, 99"
+30,13,H0010,,Alcohol and/or drug services; sub acute detoxification (residential addiction program inpatient).,1/1/2024,1,289.01,,,55
+30,14,H0011,,Alcohol and/or drug services; acute detoxification (residential addiction program inpatient).,1/1/2024,1,442.95,,,55
+30,15,H0012,,Alcohol and/or drug services; sub-acute detoxification (residential addiction program outpatient),1/1/2024,1,406.31,,,"11, 55, 57"
+30,16,H0014,,Alcohol and/or drug services; ambulatory detoxification RN,1/1/2024,1,143.96,,,"11, 55, 57"
+30,17,H0014,,Alcohol and/or drug services; ambulatory detoxification LPN,1/1/2024,1,101.66,,,"11, 55, 57"
+30,18,H0014,AT,"Alcohol and/or drug services; ambulatory detoxification RN, 2-3 hours",1/1/2024,1,381.49,,,"11, 55, 57"
+30,19,H0014,AT,"Alcohol and/or drug services; ambulatory detoxification LPN, 2-3 hours",1/1/2024,1,269.38,,,"11, 55, 57"
+30,20,H0015,,Alcohol and/or drug services; intensive outpatient (unlicensed),1/1/2024,1,116.18,,,"03, 04, 11, 14, 16, 57"
+30,21,H0015,HK,Alcohol and/or drug services; intensive outpatient (licensed),1/1/2024,1,168.99,,,"03, 04, 11, 14, 16, 57"
+30,22,H0015,TG,SUD Partial Hospitalization (unlicensed),1/1/2024,1,174.27,,,"03, 04, 11, 14, 16, 57"
+30,23,H0015,"HK,TG",SUD Partial Hospitalization (licensed),1/1/2024,1,253.48,,,"03, 04, 11, 14, 16, 57"
+30,24,H0038,,"Peer Recovery Support, individual",1/1/2024,1,17.49,,,"03, 04, 11, 12, 13, 14, 16, 18, 23, 31, 32, 33, 34, 53, 57, 99"
+30,25,H0038,HQ,Peer Recovery Support Group,1/1/2024,1,2.19,,,"03, 04, 11, 12, 13, 14, 16, 18, 23, 31, 32, 33, 34, 53, 57, 99"
+30,26,H0040,AM,"Assertive community treatment program, per unit, (physician5)",1/1/2024,1,694.13,,,"03, 04, 11, 12, 13, 14, 16, 17, 18, 20, 53, 99"
+30,27,H0040,SA/UC,"Assertive community treatment program, per unit, (CNS,CNP,PA4)",1/1/2024,1,397.73,,,"03, 04, 11, 12, 13, 14, 16, 17, 18, 20, 53, 99"
+30,28,H0040,HO,"Assertive community treatment program, per unit, ( licensed2, independent3, RN, LPN)",1/1/2024,1,284.03,,,"03, 04, 11, 12, 13, 14, 16, 17, 18, 20, 53, 99"
+30,29,H0040,HN,"Assertive community treatment program, per unit, (Unlicensed1)",1/1/2024,1,225.16,,,"03, 04, 11, 12, 13, 14, 16, 17, 18, 20, 53, 99"
+30,30,H0040,HM,"Assertive community treatment program, per unit, (Peer6)",1/1/2024,1,179.54,,,"03, 04, 11, 12, 13, 14, 16, 17, 18, 20, 53, 99"
+30,31,H0048,,"Alcohol and/or other drug testing: collection and handling only, specimens other than blood",1/1/2024,1,16.33,,,"11, 57"
+30,32,H2000,,"Comprehensive Child and Adolescent Needs and Strengths (CANS)7 assessment (Unlicensed Practitioner1), per assessment",1/1/2024,1,166.55,,,
+30,33,H2000,,"Comprehensive Child and Adolescent Needs and Strengths (CANS)7 assessment (Licensed Practitioner2), per assessment",1/1/2027,1,186.04,,,
+30,34,H2000,,"Comprehensive Child and Adolescent Needs and Strengths (CANS)7 assessment (Independent Practitioner3), per assessment",1/1/2024,1,192.16,,,
+30,35,H2000,,"Comprehensive Child and Adolescent Needs and Strengths (CANS)7 assessment (PA, CNS, CNP4), per assessment",1/1/2024,1,366.07,,,
+31,1,H2000,,"Comprehensive Child and Adolescent Needs and Strengths (CANS)7 assessment (Physician5), per assessment",1/1/2024,1,594.47,,,
+31,2,H2000,GT,"Telehealth Comprehensive Child and Adolescent Needs and Strengths (CANS)7 assessment (Unlicensed Practitioner1), per assessment",1/1/2027,1,128.21,,,
+31,3,H2000,GT,"Telehealth Comprehensive Child and Adolescent Needs and Strengths (CANS)7 assessment (Licensed Practitioner2), per assessment",1/1/2027,1,144.43,,,
+31,4,H2000,GT,"Telehealth Comprehensive Child and Adolescent Needs and Strengths (CANS)7 assessment (Independent Practitioner3), per assessment",1/1/2027,1,149.53,,,
+31,5,H2000,GT,"Telehealth Comprehensive Child and Adolescent Needs and Strengths (CANS)7 assessment (PA, CNS, CNP4), per assessment",1/1/2027,1,294.46,,,
+31,6,H2000,GT,"Telehealth Comprehensive Child and Adolescent Needs and Strengths (CANS)7 assessment (Physician5), per assessment",1/1/2027,1,484.80,,,
+31,7,H2000,,"Brief Child and Adolescent Needs and Strengths (CANS)7 assessment (Unlicensed Practitioner1), per assessment",1/1/2027,1,81.43,,,
+31,8,H2000,,"Brief Child and Adolescent Needs and Strengths (CANS)7 assessment (Licensed Practitioner2), per assessment",1/1/2027,1,90.13,,,
+31,9,H2000,,"Brief Child and Adolescent Needs and Strengths (CANS)7 assessment (Independent Practitioner3), per assessment",1/1/2027,1,92.86,,,
+31,10,H2000,,"Brief Child and Adolescent Needs and Strengths (CANS)7 assessment (PA, CNS, CNP4), per assessment",1/1/2027,1,170.55,,,
+31,11,H2000,,"Brief Child and Adolescent Needs and Strengths (CANS)7 assessment (Physician5), per assessment",1/1/2027,1,272.57,,,
+31,12,H2000,GT,"Telehealth Brief Child and Adolescent Needs and Strengths (CANS)7 assessment (Unlicensed Practitioner1), per assessment",1/1/2027,1,43.07,,,
+31,13,H2000,GT,"Telehealth Brief Child and Adolescent Needs and Strengths (CANS)7 assessment (Licensed Practitioner2), per assessment",1/1/2027,1,48.53,,,
+31,14,H2000,GT,"Telehealth Brief Child and Adolescent Needs and Strengths (CANS)7 assessment (Independent Practitioner3), per assessment",1/1/2027,1,50.24,,,
+31,15,H2000,GT,"Telehealth Brief Child and Adolescent Needs and Strengths (CANS)7 assessment (PA, CNS, CNP4), per assessment",1/1/2027,1,98.94,,,
+31,16,H2000,GT,"Telehealth Brief Child and Adolescent Needs and Strengths (CANS)7 assessment (Physician5), per assessment",1/1/2027,1,162.89,,,
+31,17,H2012,"HQ, HN",Mental Health Intensive Outpatient (Bachelors),1/1/2027,1,27.17,,,"03, 04, 11, 14, 53"
+31,18,H2012,"HQ, HO",Mental Health Intensive Outpatient (Masters),1/1/2027,1,30.86,,,"03, 04, 11, 14, 53"
+31,19,H2012,"HQ, HK",Mental Health Intensive Outpatient (Licensed),1/1/2027,1,41.19,,,"03, 04, 11, 14, 53"
+31,20,H2017,HM,Psychosocial rehabilitation service,1/1/2027,1,22.91,,,"02, 03, 04, 11, 12, 14, 16, 18, 23, 34, 53, 99"
+31,21,H2017,HQ,Psychosocial rehabilitation service,1/1/2027,1,10.14,,,"02, 03, 04, 11, 12, 14, 16, 18, 23, 34, 53, 99"
+31,22,H2017,"HM, KX",Psychosocial rehabilitation service,1/1/2027,1,29.79,,,"02, 03, 04, 11, 12, 14, 16, 18, 23, 34, 53, 99"
+31,23,H2019,UK,"TBS, per 15 minutes (QMHS plus 3)",1/1/2027,1,,22.50,28.71,"02, 03, 04, 11, 12, 13, 14, 16, 18, 23, 31, 32, 34, 53, 99"
+31,24,H2019,HN,"TBS, per 15 minutes (Bachelors)",1/1/2027,1,,22.50,28.71,"02, 03, 04, 11, 12, 13, 14, 16, 18, 23, 31, 32, 34, 53, 99"
+31,25,H2019,HO,"TBS, per 15 minutes (Masters)",1/1/2027,1,,25.33,32.24,"02, 03, 04, 11, 12, 13, 14, 16, 18, 23, 31, 32, 34, 53, 99"
+31,26,H2019,,"TBS, per 15 minutes (LIcensed)",1/1/2027,1,,25.33,32.24,"02, 03, 04, 11, 12, 13, 14, 16, 18, 23, 31, 32, 34, 53, 99"
+31,27,H2019,"UK, KX","TBS, per 15 minutes, (QMHS plus 3)",1/1/2027,1,,29.26,37.32,"02, 03, 04, 11, 12, 13, 14, 16, 18, 23, 31, 32, 34, 53, 99"
+31,28,H2019,"HN, KX","TBS, per 15 minutes,(Bachelors)",1/1/2027,1,,29.26,37.32,"02, 03, 04, 11, 12, 13, 14, 16, 18, 23, 31, 32, 34, 53, 99"
+31,29,H2019,"HO, KX","TBS, per 15 minutes, (Masters)",1/1/2027,1,,32.93,41.91,"02, 03, 04, 11, 12, 13, 14, 16, 18, 23, 31, 32, 34, 53, 99"
+31,30,H2019,KX,"TBS, per 15 minutes, (Licensed)",1/1/2027,1,,32.93,41.91,"02, 03, 04, 11, 12, 13, 14, 16, 18, 23, 31, 32, 34, 53, 99"
+31,31,H2019,"HQ, UK","TBS, per 15 minutes (QMHS plus 3; Group)",1/1/2024,1,7.32,,,"11, 53"
+31,32,H2019,"HQ,HN","TBS, per 15 minutes (Bachelors; Group)",1/1/2024,1,7.32,,,"11, 53"
+31,33,H2019,"HQ, HO","TBS, per 15 minutes; (Masters; Group)",1/1/2024,1,8.24,,,"11, 53"
+32,1,H2019,HQ,"TBS, per 15 minutes; (Licensed; Group)",1/1/2024,1,10.14,,,"11, 53"
+32,2,H2020,HN,Mental Health Partial Hospitalization (Bachelors),1/1/2027,1,153.25,,,"03, 04, 11, 14, 53"
+32,3,H2020,HO,Mental Health Partial Hospitalization (Masters),1/1/2027,1,171.57,,,"03, 04, 11, 14, 53"
+32,4,H2020,HK,Mental Health Partial Hospitalization (Licensed),1/1/2027,1,205.95,,,"03, 04, 11, 14, 53"
+32,5,H2034,,"Alcohol and/or drug abuse halfway house services, per diem.",1/1/2024,1,172.02,,,55
+32,6,H2036,HI,"Alcohol and/other drug treatment program, per diem.",1/1/2024,1,240.95,,,55
+32,7,H2036,,"Alcohol and/or other drug treatment program, per diem.",1/1/2024,1,240.95,,,55
+32,8,H2036,TG,"Alcohol and/or other drug treatment program, per diem.",1/1/2024,1,342.18,,,55
+32,9,S9482,,"MRSS Stabilization Service (Peer Recovery Supporter6), per 15 minutes",1/1/2024,1,27.93,,,
+32,10,S9482,,"MRSS Stabilization Service (Unlicensed Practitioner1), per 15 minutes",1/1/2024,1,34.86,,,
+32,11,S9482,,"MRSS Stabilization Service (Licensed Practitioner 2), per 15 minutes",1/1/2024,1,38.35,,,
+32,12,S9482,,"MRSS Stabilization Service (Independent Practitioner 3), per 15 minutes",1/1/2024,1,39.41,,,
+32,13,S9484,,"Crisis Mobile Response Follow-up (Peer Recovery Supporter6), per hour",1/1/2024,1,116.01,,,
+32,14,S9484,,"Crisis Mobile Response Follow-up (Unlicensed Practitioner1), per hour",1/1/2024,1,141.22,,,
+32,15,S9484,,"Crisis Mobile Response Follow-up (Licensed Practitioner 2), per hour",1/1/2024,1,153.89,,,
+32,16,S9484,,"Crisis Mobile Response Follow-up (Independent Practitioner 3), per hour",1/1/2024,1,157.76,,,
+32,17,S9485,,"Crisis Mobile Response (Peer Recovery Supporter6), per diem",1/1/2024,1,412.16,,,
+32,18,S9485,,"Crisis Mobile Response (Unlicensed Practitioner1), per diem",1/1/2024,1,487.79,,,
+32,19,S9485,,"Crisis Mobile Response (Licensed Practitioner 2), per diem",1/1/2024,1,525.80,,,
+32,20,S9485,,"Crisis Mobile Response (Independent Practitioner 3), per diem",1/1/2024,1,537.41,,,
+32,21,T1002,,Behavioral Health Nursing Services; RN,1/1/2027,1,,35.99,46.23,"03, 04, 11, 12, 14, 16, 18, 33, 34, 53, 57, 99"
+32,22,T1002,KX,Behavioral Health Nursing Services; RN,1/1/2027,1,,35.99,46.23,"03, 04, 11, 12, 14, 16, 18, 23, 33, 34, 53 57, 99"
+32,23,T1002,HQ,Behavioral Health Nursing Services; RN Group,1/1/2027,1,11.69,,,"11, 53, 57"
+32,24,T1003,,Behavioral Health Nursing Services; LPN,1/1/2027,1,,25.41,32.84,"03, 04, 11, 12, 14, 16, 18, 33, 34, 53, 57, 99"
+32,25,H2023,,SRS Supported Employment; Initial,1/1/2024,1,22.02,,,"03, 04, 11, 12, 14, 16, 17, 18, 19, 22, 23, 53, 55, 57"
+32,26,H2025,,SRS Supported Employment; Subsequent,1/1/2024,1,22.02,,,"03, 04, 11, 12, 14, 16, 17, 18, 19, 22, 23, 53, 55, 56, 57"
+32,27,H0038,,"SRS Peer Recovery Support, individual",1/1/2024,1,17.49,,,"Not allowed in 02, 05, 06, 07, 08, 41, 42, 55"
+32,28,H0038,HQ,SRS Peer Recovery Support; Group,1/1/2024,1,2.19,,,"Not allowed in 02, 05, 06, 07, 08, 41, 42, 55"

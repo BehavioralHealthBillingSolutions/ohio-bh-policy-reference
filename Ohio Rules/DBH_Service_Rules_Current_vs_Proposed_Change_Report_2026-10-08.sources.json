@@ -1,0 +1,259 @@
+{
+  "mode": "current-versus-proposed",
+  "as_of": "2026-10-08 America/New_York",
+  "entry_count": 18,
+  "sources": [
+    {
+      "id": "5122-29-01",
+      "side": "current",
+      "path": "Comparisons/DBH_Service_Rules_2026-10-07/current/5122-29-01.md",
+      "sha256": "d8c425c3244e54d85f7afa552ba28d7f2db6272db70ea18925ce2d1fd586843e",
+      "rule_body_sha256": "2344910533a1b49d15d6c7b2345e7701081342d036c30a8e8f4eb25b9e1a0dee"
+    },
+    {
+      "id": "5122-29-01",
+      "side": "target",
+      "path": "Comparisons/DBH_Service_Rules_2026-10-07/proposed/5122-29-01.md",
+      "sha256": "b06e1d3c8b654c9655a1b5133bebc3e62fee9f52115d78edfad1d64572355ba1",
+      "rule_body_sha256": "7a593dc12f16348482fe8df9aea3ba63ace5ea5e6c4d29f6024e6a33f1ec55cf"
+    },
+    {
+      "id": "5122-29-03",
+      "side": "current",
+      "path": "Comparisons/DBH_Service_Rules_2026-10-07/current/5122-29-03.md",
+      "sha256": "da6459a7117bde890b92460a1d2667f36440c96039c4c080f5d6f23019be85ee",
+      "rule_body_sha256": "ee1322a67db6df7633d6d22556c5f0c6208c80a41afb0e12e3d2775745132a5c"
+    },
+    {
+      "id": "5122-29-03",
+      "side": "target",
+      "path": "Comparisons/DBH_Service_Rules_2026-10-07/proposed/5122-29-03.md",
+      "sha256": "d679e575275783ac5b8be2e61c99e081ac168506a5d39452e3e9b51a3bedff98",
+      "rule_body_sha256": "36ee12a73af5fe0aeeddd3aee453a844ae33e8af48ed318b255442240dd73af0"
+    },
+    {
+      "id": "5122-29-06",
+      "side": "current",
+      "path": "Comparisons/DBH_Service_Rules_2026-10-07/current/5122-29-06.md",
+      "sha256": "cb4ae14aa0100b76319f579d842c3a24d74e719f8927295b89a5f73c6fc753b0",
+      "rule_body_sha256": "408095f1a804d5754b0104037b62439c102084ea4a70e43d932fefd6ada2a4db"
+    },
+    {
+      "id": "5122-29-06",
+      "side": "target",
+      "path": "Comparisons/DBH_Service_Rules_2026-10-07/proposed/5122-29-06.md",
+      "sha256": "a8c03aa1decf31e2497cdba41262fcd84c784de2622dc4a4065d565efddad6df",
+      "rule_body_sha256": "0ed671d0d03f42fff2ec3c73b2b32cf198c43e209eb54f007933c6b52ca2b29f"
+    },
+    {
+      "id": "5122-29-07",
+      "side": "current",
+      "path": "Comparisons/DBH_Service_Rules_2026-10-07/current/5122-29-07.md",
+      "sha256": "f234204d79363e022080f231c9f3b5085fc8f2d6dd00b1d6ba5675588e630fca",
+      "rule_body_sha256": "8368d06cb8d2700af6792aea5e5b3d4a96dff70e64fcca3d09af153dc21bb58e"
+    },
+    {
+      "id": "5122-29-07",
+      "side": "target",
+      "path": "Comparisons/DBH_Service_Rules_2026-10-07/proposed/5122-29-07.md",
+      "sha256": "135be19b02d8f826776f83086992b9489495a7cff0dc69a7f732055bfbe6aa4c",
+      "rule_body_sha256": "389f422bb308ffc3052faf0d98aee79ec1af8ef8e0335974ced427878aa96d56"
+    },
+    {
+      "id": "5122-29-08",
+      "side": "current",
+      "path": "Comparisons/DBH_Service_Rules_2026-10-07/current/5122-29-08.md",
+      "sha256": "6d53d1ea4a74791a8ee2673dfecf9f3180432e5a334466966c213de76f992aa1",
+      "rule_body_sha256": "f193200312deb9c8cf5852f367493f771aa3309ac13a0305f3607c90fb6b9a7c"
+    },
+    {
+      "id": "5122-29-08",
+      "side": "target",
+      "path": "Comparisons/DBH_Service_Rules_2026-10-07/proposed/5122-29-08.md",
+      "sha256": "418cf6e1c6086e6818a7546144ee5a42f6a6bdcc7b687ebb9f2febe3359bc4b7",
+      "rule_body_sha256": "12d25c055715180042fd962f35a9656ff71316fb4481f659067f101ab8da7981"
+    },
+    {
+      "id": "5122-29-09.1",
+      "side": "current",
+      "path": "Comparisons/DBH_Service_Rules_2026-10-07/current/5122-29-09.1.md",
+      "sha256": "94287fccebefcb28ddd044cfe198ca91e6c794ecbf148da0e0d0b33fcb9fe080",
+      "rule_body_sha256": "f681474ca4e4c116ced2042e33f6a533f55631ca494ec9dc0eae674a15c3a995"
+    },
+    {
+      "id": "5122-29-09.1",
+      "side": "target",
+      "path": "Comparisons/DBH_Service_Rules_2026-10-07/proposed/5122-29-09.1.md",
+      "sha256": "7bc749bc874e090b3be275981937dcbacd5c2cc2d234da1944e0eccdafe1ef16",
+      "rule_body_sha256": "535528d66bd01639da02cc14bc57802af155db717b4e0e418dfb1b6a189f4803"
+    },
+    {
+      "id": "5122-29-10",
+      "side": "current",
+      "path": "Comparisons/DBH_Service_Rules_2026-10-07/current/5122-29-10.md",
+      "sha256": "e2595c34a560a26f56565f08a98f6d83bf90dd32167c89ba9d2c7d05609102f7",
+      "rule_body_sha256": "0599d2a94c88244cd4bc3ccf788e52c7cd803442f761fd1b020b733fd7d7737b"
+    },
+    {
+      "id": "5122-29-10",
+      "side": "target",
+      "path": "Comparisons/DBH_Service_Rules_2026-10-07/proposed/5122-29-10.md",
+      "sha256": "04caff722e9417cb3be5a255c4e72e632c101ee7259d7a9994991c3402ebeee3",
+      "rule_body_sha256": "24a7f79b7fed0efa1f2daae07407d2de9eec44422b548a7114b8de2a5b2555d1"
+    },
+    {
+      "id": "5122-29-12",
+      "side": "current",
+      "path": "Comparisons/DBH_Service_Rules_2026-10-07/current/5122-29-12.md",
+      "sha256": "64eb71e120dd3fc004d819052e7842e2703f2233e5c8e6a7533b808fe3f1b7d1",
+      "rule_body_sha256": "ce9e73a21d1c535d5136223d603a1e8ab6e8a4f77be5656d6361f5ad4d907d31"
+    },
+    {
+      "id": "5122-29-12",
+      "side": "target",
+      "path": "Comparisons/DBH_Service_Rules_2026-10-07/proposed/5122-29-12.md",
+      "sha256": "38c74968bf53e7781173d48b7cfaee25150ff44cb7eb243324561b12db2a9fec",
+      "rule_body_sha256": "008e0eafce41c8c4f597bdc045667eeefaa90e75f4fd5e5aad53e64fca189cb2"
+    },
+    {
+      "id": "5122-29-13",
+      "side": "current",
+      "path": "Comparisons/DBH_Service_Rules_2026-10-07/current/5122-29-13.md",
+      "sha256": "fbc1f092403b8b0e6cf1f1042153b9d55f9a4839c97e31d4d399a64b4c7cc880",
+      "rule_body_sha256": "da2874d879512581a213fa7de0c51955d4331597fbf3cb731b7c15838dc4dd32"
+    },
+    {
+      "id": "5122-29-13",
+      "side": "target",
+      "path": "Comparisons/DBH_Service_Rules_2026-10-07/proposed/5122-29-13.md",
+      "sha256": "3204a309bf9d50aab846c05a77d049ba3d3c8e902162526ad2fa8dfec3dba110",
+      "rule_body_sha256": "74b0ce3aebe762c3b73a4dc4c58ea7966895ed57f4c2cc5f343a7f48efb3067d"
+    },
+    {
+      "id": "5122-29-15",
+      "side": "current",
+      "path": "Comparisons/DBH_Service_Rules_2026-10-07/current/5122-29-15.md",
+      "sha256": "c6760917281815999b0a004cb3a54aac28312227e1fcdfdee44902dcda673ac0",
+      "rule_body_sha256": "c0d2c1fdf86298983cfde1448b1c25dff80cd73045c56454891336e412a8873a"
+    },
+    {
+      "id": "5122-29-15",
+      "side": "target",
+      "path": "Comparisons/DBH_Service_Rules_2026-10-07/proposed/5122-29-15.md",
+      "sha256": "1915c824f9065e8b8714953bb8baa902a26aa7853064f51996729e3fa855ea47",
+      "rule_body_sha256": "1ff33192a3bef403fbd48ba0f88b6343a30cfe5276f06e9c62428be2c538032c"
+    },
+    {
+      "id": "5122-29-16",
+      "side": "current",
+      "path": "Comparisons/DBH_Service_Rules_2026-10-07/current/5122-29-16.md",
+      "sha256": "411ee50627cace0b7c985750e0a1a0f5fd423ee763d718e6832bb524dd4155ec",
+      "rule_body_sha256": "fbf2cab3f504e98fb5a725f223b03a9cbfc0d09e33dba56132fd1ece348f1e4e"
+    },
+    {
+      "id": "5122-29-16",
+      "side": "target",
+      "path": "Comparisons/DBH_Service_Rules_2026-10-07/proposed/5122-29-16.md",
+      "sha256": "ceb583c6b29b269b41c3249a2db6bd9fd86a4c67fedf09bbb77917cc530f5174",
+      "rule_body_sha256": "0c2bd49c64a988efa20368b5cd9d58f77abe47bf9309a6289186c4fc02a3946f"
+    },
+    {
+      "id": "5122-29-17",
+      "side": "current",
+      "path": "Comparisons/DBH_Service_Rules_2026-10-07/current/5122-29-17.md",
+      "sha256": "6a9af8e6a997e57c20eb66c3372f4e58bedae89f71f0487badcd10c546406cb0",
+      "rule_body_sha256": "8b009ebb81939fec854862e2328339e7a70728cadca00a190adf62b2d5ae5c4b"
+    },
+    {
+      "id": "5122-29-17",
+      "side": "target",
+      "path": "Comparisons/DBH_Service_Rules_2026-10-07/proposed/5122-29-17.md",
+      "sha256": "66b22e65708ce3bf7aacc6e28a66208721790b521bab458c4037f59de34c7bfe",
+      "rule_body_sha256": "c4f45a1920286e40b2dbcf18ef885d6b3181e064845cf15cf113db72ea3616f7"
+    },
+    {
+      "id": "5122-29-18",
+      "side": "current",
+      "path": "Comparisons/DBH_Service_Rules_2026-10-07/current/5122-29-18.md",
+      "sha256": "4c33a2295487874f2a4ee680415ceb72b53471dc7327bda5a6d712e2b3d05642",
+      "rule_body_sha256": "75828a0443c3b0ee20fb43d2d0259093b2d0937f6db95f92e1b42865a3bc248b"
+    },
+    {
+      "id": "5122-29-18",
+      "side": "target",
+      "path": "Comparisons/DBH_Service_Rules_2026-10-07/proposed/5122-29-18.md",
+      "sha256": "5ba6c1d895f720c58ae3ef2a254e82349e8d63de8fe37dbe3baff8ba17e59a08",
+      "rule_body_sha256": "3e5363d463056f87413ce164b7b5fa9631cd52ad06842b0d2138c916d1e42f95"
+    },
+    {
+      "id": "5122-29-19",
+      "side": "current",
+      "path": "Comparisons/DBH_Service_Rules_2026-10-07/current/5122-29-19.md",
+      "sha256": "c00e460caffb6c86fb643544eb0979ca7d7bdfcf80e8fdc059623a973d8d8ed4",
+      "rule_body_sha256": "ca1620b86e60e2389954dedd64be04697b8422112c52a189c329cabef8c2f3a3"
+    },
+    {
+      "id": "5122-29-19",
+      "side": "target",
+      "path": "Comparisons/DBH_Service_Rules_2026-10-07/proposed/5122-29-19.md",
+      "sha256": "4d26960949718f3bfa9f095d89ca170c4a9ba29322b2aa5a53e1ac014717e709",
+      "rule_body_sha256": "653cf11e19aebac80a57c4fcb39417a62834e57a03f47116187603b7496e0c56"
+    },
+    {
+      "id": "5122-29-22",
+      "side": "current",
+      "path": "Comparisons/DBH_Service_Rules_2026-10-07/current/5122-29-22.md",
+      "sha256": "e7333cec3283d68532f91d00830d32ceb3b12fedf00abde60177fad7bf80f16e",
+      "rule_body_sha256": "2a88457a0af3c05c7a1f55206daaefad1ff7a8597d1bbd167617c2a6e3389f64"
+    },
+    {
+      "id": "5122-29-22",
+      "side": "target",
+      "path": "Comparisons/DBH_Service_Rules_2026-10-07/proposed/5122-29-22.md",
+      "sha256": "165b9ac2fce575d5a901ed439c3484a45bc2921ce3111e4d64baa4d7a656f405",
+      "rule_body_sha256": "40a28a225375a41cc6de91d4061dcd7570192de1893cee1218117e96d8f7d973"
+    },
+    {
+      "id": "5122-29-27",
+      "side": "current",
+      "path": "Comparisons/DBH_Service_Rules_2026-10-07/current/5122-29-27.md",
+      "sha256": "0f617debca7711b1a6846ea5a0a9c0c0c9fec9ef559756793b4a25e04508cbcb",
+      "rule_body_sha256": "a6a5694f0f4f55f43b6604a584de1fa0bf033e22489e42db1a926a2fc8f91335"
+    },
+    {
+      "id": "5122-29-27",
+      "side": "target",
+      "path": "Comparisons/DBH_Service_Rules_2026-10-07/proposed/5122-29-27.md",
+      "sha256": "cea2ec0b8f74952ca4c3881f64238a2740d49e9f1e24f15d397905f66de2a624",
+      "rule_body_sha256": "40afbc212368f60f995f7327524e54e433989db594264e731e462b862d109e9a"
+    },
+    {
+      "id": "5122-29-28",
+      "side": "current",
+      "path": "Comparisons/DBH_Service_Rules_2026-10-07/current/5122-29-28.md",
+      "sha256": "6bf7ac018fe8eb636f0c076fe5dafa8bc14266c529840352c52967073b545ea7",
+      "rule_body_sha256": "d34ede3c0786eda235a373294b44f8f4dbae5aaf9f293c3e444cd9d3a85a2038"
+    },
+    {
+      "id": "5122-29-28",
+      "side": "target",
+      "path": "Comparisons/DBH_Service_Rules_2026-10-07/proposed/5122-29-28.md",
+      "sha256": "eb625bddc5a6e299f41c72d3efcbe0e6d57bc6270756e5a3e3bbe6cf849cb5f6",
+      "rule_body_sha256": "ea253649e58bbc18618f62fdede99ce526ddd01897c8ca958d21a4f4de67296a"
+    },
+    {
+      "id": "5122-29-29",
+      "side": "current",
+      "path": "Comparisons/DBH_Service_Rules_2026-10-07/current/5122-29-29.md",
+      "sha256": "2e6b86ea12fc8c16295e1dbbd08e229349cddcb406e4e4b28e407b6180f730f2",
+      "rule_body_sha256": "3c8c203d1292d477c8d8db57176f3d2104f6ff01dc226ae2219eda305f76662c"
+    },
+    {
+      "id": "5122-29-29",
+      "side": "target",
+      "path": "Comparisons/DBH_Service_Rules_2026-10-07/proposed/5122-29-29.md",
+      "sha256": "f45089b538ca696b76aaa6c3ae8687e9be816ed7658b0b3cdce994536427a192",
+      "rule_body_sha256": "a2964efac2b08b4e24442a9f74e8cedcdf6a4070058caa68e4b210bd00d2689c"
+    }
+  ]
+}
