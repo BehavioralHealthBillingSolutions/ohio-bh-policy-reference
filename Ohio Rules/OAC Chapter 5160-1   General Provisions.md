@@ -2,9 +2,9 @@
 
 Source: https://codes.ohio.gov/ohio-administrative-code/chapter-5160-1
 
-Retrieved: August 24, 2026
+Retrieved: October 29, 2026
 
-Documents: 52
+Documents: 51
 
 ---
 
@@ -92,6 +92,8 @@ URL: https://codes.ohio.gov/ohio-administrative-code/rule-5160-1-02
     - (1) Duplicate medicaid reimbursement for services performed; or
 
     - (2) A provider selectively choosing a higher reimbursement rate for the services performed.
+
+    - Last updated September 4, 2026 at 8:30 AM
 
 ### Supplemental Information
 
@@ -443,6 +445,8 @@ URL: https://codes.ohio.gov/ohio-administrative-code/rule-5160-1-05.3
     - (3) The difference between the sum of the amount medicare paid and any third party payments, and the medicaid maximum allowable reimbursement rate for the same identified service or services.
 
 - (C) When payment for part B cost sharing is made using the method described in paragraph (B)(2) or (B)(3) of this rule and the sum of the amounts paid by medicare and all other third party insurers exceeds the medicare or medicaid approved amount, ODM will not make any additional payment to the provider, or will make a payment of zero dollars, and the service(s) are considered to be paid in full to the provider.
+
+- Last updated October 2, 2026 at 8:11 AM
 
 ### Supplemental Information
 
@@ -1251,12 +1255,13 @@ URL: https://codes.ohio.gov/ohio-administrative-code/rule-5160-1-17.4
 
 - (D) In processing an application for revalidation, ODM reserves the right to conduct an on-site review at the provider's facility, place of business, or both, as ODM deems necessary to ensure program integrity.
 
-- Last updated August 17, 2026 at 2:07 PM
+- Last updated September 16, 2026 at 8:28 PM
 
 ### Supplemental Information
 
 **Authorized By:** 5164.02; 5164.32  
 **Amplifies:** 5162.03; 5164.02; 5164.32  
+**Five Year Review Date:** 4/17/2026  
 **Prior Effective Dates:** 4/7/1977, 12/30/1977, 1/1/1979, 3/23/1979, 8/31/1979, 11/1/1979, 7/1/1980, 7/7/1980, 10/1/1987, 1/1/1995, 5/30/2002, 8/11/2005, 1/1/2008, 5/1/2010, 10/18/2019, 6/12/2020 (Emer.)  
 
 ---
@@ -1444,6 +1449,7 @@ URL: https://codes.ohio.gov/ohio-administrative-code/rule-5160-1-17.6
 
 **Authorized By:** 5164.02, 5164.33  
 **Amplifies:** 5164.32, 5164.33, 5164.38  
+**Five Year Review Date:** 4/9/2020  
 **Prior Effective Dates:** 4/7/1977, 12/30/1977, 1/1/1979, 3/23/1979, 8/31/1979, 11/1/1979, 7/1/1980, 7/7/1980, 10/1/1987, 6/16/1988, 7/1/1990, 1/1/1995, 8/1/1996, 5/30/2002, 8/11/2005, 1/1/2008  
 
 ---
@@ -1955,7 +1961,7 @@ URL: https://codes.ohio.gov/ohio-administrative-code/rule-5160-1-17.9
 
 - (F) This rule does not apply to services delivered through medicaid managed care plans.
 
-- Last updated August 24, 2026 at 2:32 PM
+- Last updated October 2, 2026 at 8:33 PM
 
 ### Supplemental Information
 
@@ -1969,26 +1975,30 @@ URL: https://codes.ohio.gov/ohio-administrative-code/rule-5160-1-17.9
 
 URL: https://codes.ohio.gov/ohio-administrative-code/rule-5160-1-17.12
 
-**Effective:** November 9, 2019  
+**Effective:** October 1, 2026  
 **Promulgated Under:** 119.03  
 
 - The Ohio department of medicaid (ODM) authorizes qualified entities (QEs) to determine presumptive eligibility (PE) based on self-attested information to grant immediate medicaid coverage to certain individuals seeking medicaid covered services. This rule sets forth eligibility requirements and responsibilities to maintain designation as a QE.
 
-- (A) For the purposes of this rule, "qualified entity" has the same meaning as defined in rule 5160:1-1-01 of the Administrative Code.
+- (A) For the purposes of this rule, the following definitions apply:
+
+    - (1) "Qualified Entity" has the same meaning as defined in rule 5160:1-1-01 of the Administrative Code.
+
+    - (2) "Unauthorized Use" means any access or activity that exceeds granted access or is performed without ODM approval, including misuse, credential sharing, or using the system for personal gain.
 
 - (B) To become a QE, the eligible entity must:
 
-    - (1) Have an active provider agreement in accordance with rule 5160-1-17.2 of the Administrative Code;
+    - (1) Be an eligible provider as defined in rule 5160-1-17 of the Administrative Code;
 
-    - (2) Read the presumptive eligibility training guide found on the ODM website, www.medicaid.ohio.gov; and
+    - (2) Read the presumptive eligibility training guide found on the ODM website, medicaid.ohio.gov; and
 
-    - (3) Attest that it will meet the terms and conditions as a QE by reading, signing, and sending ODM form 10252 "acknowledgment of terms and conditions governing the presumptive eligibility determinations authority granted by the Ohio department of medicaid to a qualified entity" (rev. 8/2019), found on the ODM website, www.medicaid.ohio.gov.
+    - (3) Attest that it will meet the terms and conditions as a QE by reading, signing, and sending ODM form 10252 "Acknowledgement of Terms and Conditions Governing the Presumptive Eligibility Determinations Authority Granted by the Ohio Department of Medicaid to a Qualified Entity," found on the ODM website, medicaid.ohio.gov.
 
 - (C) Once designated as a QE, the QE must:
 
     - (1) Remain in good standing as an Ohio medicaid provider;
 
-    - (2) Follow rule 5160:1-2-13 of the Administrative Code and all other applicable federal and state laws when determining medicaid PE;
+    - (2) Determine presumptive eligibility in accordance with rule 5160:1-2-13 of the Administrative Code and all other applicable federal and state laws;
 
     - (3) Verify the individual is not already enrolled in another category of medicaid;
 
@@ -1998,103 +2008,56 @@ URL: https://codes.ohio.gov/ohio-administrative-code/rule-5160-1-17.12
 
         - (b) Ensure that employees given responsibility to determine PE have read the presumptive eligibility training guide, understand the criteria for all medicaid eligibility categories and have been trained on how to use the presumptive eligibility portal;
 
-        - (c) Ensure those who have responsibility to submit claims to the medicaid program for reimbursement of medicaid services are not individuals responsible for determining presumptive eligibility; and
+        - (c) Ensure those employees who have responsibility to submit claims to the medicaid program for reimbursement of medicaid services are not also employees responsible for determining presumptive eligibility; and
 
         - (d) Agree to retain all records related to presumptive eligibility determinations in accordance with rule 5160-1-27 of the Administrative Code and provide such records to ODM, its designee, or to any authorized state or federal agency upon request.
 
-    - (5) Agree that it may be held responsible for the willful conduct of its employees who violate federal or state law. Any employee who knowingly files a claim containing false, incomplete, or misleading essential information to create eligibility for medicaid or receive payment from medicaid may be punishable under federal or state law;
+    - (5) Agree that it may be held responsible for the willful conduct of its employees. Any employee who knowingly files a claim containing false, incomplete, or misleading essential information to create eligibility for medicaid or receive payment from medicaid may be punishable under section 2913.40 or 2913.401 of the Revised Code;
 
-    - (6) If the QE is a hospital, agree to provide thirty-six hours' worth of medically necessary medications to any person enrolled presumptively by the QE at time of determination;
+    - (6) If the QE is a hospital, agree to provide thirty-six hours worth of medically necessary medications to any person enrolled presumptively by the QE at time of determination;
 
-    - (7) If the QE is a federally qualified health center (FQHC) and is able to do so, provide thirty-six hours' worth of medically necessary medications to any person enrolled presumptively by the QE at the time of determination if such needs are determined during a medical visit;
+    - (7) If the QE is a federally qualified health center (FQHC) and is able to do so, provide thirty-six hours worth of medically necessary medications to any person enrolled presumptively by the QE at the time of determination if such needs are determined during a medical visit;
 
-    - (8) Ensure that for all persons enrolled presumptively by the QE, at least eighty-five per cent have a completed application for full medicaid benefits submitted no later than the last day of the month following the month in which the QE makes the PE determination; and
+    - (8) Ensure that for all persons enrolled presumptively by the QE, a completed application for full medicaid benefits is submitted no later than the last day of the month following the month in which the QE makes the PE determination; and
 
-    - (9) Ensure that for all persons who had an application submitted for full medicaid benefits, at least eighty-five per cent result in an awarding of medicaid eligibility.
+    - (9) Ensure that at least 92.5 per cent of individuals determined presumptively eligible are subsequently awarded full medicaid eligibility.
 
-- (D) ODM may terminate authority granted under this rule with or without written notice, for any reason supported by evidence of acts or omissions adversely affecting the medicaid program, including, but not limited to the following circumstances:
+- (D) Monitoring.
 
-    - (1) Revocation or cancellation of the QE's Ohio medicaid provider agreement;
+    - (1) ODM will monitor performance standards in paragraphs (C)(8) and (C)(9) of this rule monthly for all PE determinations. A comprehensive PE training will be mandatory for all employees designated to make PE determinations for each period during which the QE fails to meet these performance standards, in accordance with section 5163.103 of the Revised Code.
 
-    - (2) Requirements set forth in this rule are not met;
+    - (2) ODM will request a corrective action plan (CAP) from each QE for each period wherein performance standards set forth in this rule are not met in accordance with section 5163.103 of the Revised Code. Improvement will be monitored and reviewed annually to determine whether revocation of the QE designation in these instances is appropriate.
 
-    - (3) Unauthorized use of MITS by the QE;
+    - (3) A QE on an approved CAP will be monitored until successful completion of the CAP or revocation of the QE designation. Any QE exhibiting repeated instances of noncompliance with performance standards outlined in this rule or remaining on a CAP for more than one year may have its QE designation revoked.
 
-    - (4) Programmatic or systematic changes related to the medicaid eligibility or enrollment system; or
+- (E) Revocation. ODM may terminate authority granted under this rule with or without written notice, for any reason supported by evidence of acts or omissions adversely affecting the medicaid program. An entity reapplying for QE designation after a revocation will need to follow the process outlined in paragraph (B) of this rule. QE designation revocation will occur in the following circumstances:
 
-    - (5) The QE is unable to perform its functions.
+    - (1) Administrative revocation. ODM may revoke QE designation for the following reasons without subjecting the QE to a QE designation exclusion period:
 
-- (E) A QE may utilize reconsideration rights as stated in rule 5160-70-02 of the Administrative Code to challenge a decision of ODM to deny or terminate QE designation.
+        - (a) Suspension or termination of the QE's Ohio medicaid provider agreement;
 
-- Last updated May 26, 2026 at 12:33 PM
+        - (b) Unauthorized use of the PE portal by the QE;
+
+        - (c) State or federal programmatic or systematic changes related to the medicaid eligibility or enrollment system;
+
+        - (d) The QE does not perform at least fifty PE determinations in a twelve month period.
+
+    - (2) Noncompliant revocation. ODM may revoke QE designation for failure to comply with performance standards outlined in paragraph (C)(8) or (C)(9) of this rule. Revocation resulting from noncompliance will subject the QE to the following periods of exclusion from QE designation:
+
+        - (a) First revocation: one year exclusion from QE designation;
+
+        - (b) Second revocation: three year exclusion from QE designation; and
+
+        - (c) Third revocation: five year exclusion from QE designation.
+
+        - Last updated October 1, 2026 at 10:11 AM
 
 ### Supplemental Information
 
 **Authorized By:** 5162.03, 5163.02  
-**Amplifies:** 5162.03, 5163.02  
-**Five Year Review Date:** 11/9/2024  
-
----
-
-## Rule 5160-1-17.51 | Suspension of medicaid provider claims payments during a pending audit or investigation.
-
-URL: https://codes.ohio.gov/ohio-administrative-code/rule-5160-1-17.51
-
-**Effective:** June 2, 2026  
-**Promulgated Under:** 119.03  
-
-- (A) Definitions, for purposes of this rule the definitions below apply:
-
-    - (1) "Credible allegation of fraud" as defined in section 5164.36 of the Revised Code.
-
-    - (2) "Non-institutional provider" as defined in rule 5160-1-17.5 of the Administrative Code.
-
-- (B) The Ohio department of medicaid (ODM) shall suspend medicaid provider claims payments without suspending the provider agreement, in accordance with division (I) of section 5164.36 of the Revised Code when at least one of the following conditions apply and the department determines that the suspension of the provider agreement would cause risk of harm to medicaid members:
-
-    - (1) Upon determining there is a credible allegation of fraud for which an audit or investigation is pending against a provider under the medicaid program; or
-
-    - (2) Upon receiving notice and copy of an indictment that charges a non-institutional provider, its owner or owners, officer, authorized agent, associate, manager, or employee with committing an offense as specified in division (E) of section 5164.37 of the Revised Code.
-
-- (C) Upon suspension of the provider's claims payments, the following conditions apply:
-
-    - (1) If a provider's claims payments are suspended pursuant to this rule, then claims payments to any other entity where the provider or provider's owner or owners, officer, authorized agent, manager, or employee is an owner, officer, authorized agent, manager, or employee may also be suspended.
-
-    - (2) During the period of suspension, the provider, its owner or owners, officer, authorized agent, associate, manager, or employee shall not receive reimbursement in the form of direct payments from ODM or indirect payments of medicaid funds from managed care entities or other entities delegated by ODM to administer any portion of the medicaid program.
-
-    - (3) ODM will provide notice to the provider whose payments are suspended, in accordance with 42 CFR 455.23(b), (effective October 1, 2025).
-
-    - (4) The provider must fully and completely cooperate with ODM's audit and review process including responding to requests for information and records within specified timeframes.
-
-- (D) ODM may lift the payment suspension, in whole or in part, under any of the following circumstances:
-
-    - (1) ODM or a prosecuting authority determines that there is insufficient evidence of fraud, waste, or abuse by the provider;
-
-    - (2) The proceedings in any related criminal case are completed through dismissal of the indictment or through conviction, entry of a guilty plea, or finding of not guilty.
-
-    - (3) Good cause exists to not suspend payments pursuant to 42 CFR 455.23(e) or (f), (effective October 1, 2025), determined upon:
-
-        - (a) Receipt of a reconsideration request from the provider or provider owner or owners under paragraph (E) of this rule that demonstrates good cause; or
-
-        - (b) Upon ODM's own determination of good cause.
-
-- (E) Reconsideration of suspension;
-
-    - (1) A provider, owner, or owners subject to a suspension of payments may request a reconsideration in writing, along with written information and documentation supporting the request, no later than thirty Calendar days after receiving the notice in paragraph (C) of this rule. A request for reconsideration is not subject to Chapter 119. of the Revised Code.
-
-    - (2) The reconsideration shall be conducted by the ODM director or the director's designee in the office where the contestation arose provided that the designee was not involved in the original decision. Decisions made by the director or the director's designee are not appealable or subject to further reconsideration.
-
-    - (3) The ODM director may grant a reconsideration request in whole or in part and may lift a payment suspension temporarily for good cause shown.
-
-- (F) If ODM commences a process to terminate the provider agreement, the payment suspension shall continue in effect until the termination process is concluded.
-
-- (G) If a payment suspension is lifted, payments owed to a provider will be offset against any debts owed to the medicaid program. Any amount remaining will be released to the provider.
-
-- Last updated June 4, 2026 at 8:46 AM
-
-### Supplemental Information
-
-**Authorized By:** 5160.02  
-**Amplifies:** 5164.36, 5164.37  
+**Amplifies:** 5162.03, 5163.02, 5163.103  
+**Five Year Review Date:** 10/1/2031  
+**Prior Effective Dates:** 11/9/2019  
 
 ---
 
@@ -2847,7 +2810,7 @@ URL: https://codes.ohio.gov/ohio-administrative-code/rule-5160-1-29
 
 - (F) Providers will assume responsibility for the business practices of employees. In accordance with rule 5160-1-17.2 of the Administrative Code, the Ohio medicaid provider agreement states that each provider will comply with the terms of the provider agreement, Revised Code, Administrative Code, and federal statutes and rules. Providers will take the necessary time to thoroughly acquaint themselves and their employees with all rules relative to their participation in the medicaid program. Ignorance of medicaid program rules will not be an acceptable justification for violation of the provider agreement, relevant statutes, or rules.
 
-- Last updated July 18, 2024 at 8:52 AM
+- Last updated October 2, 2026 at 8:01 AM
 
 ### Supplemental Information
 
@@ -3359,6 +3322,7 @@ URL: https://codes.ohio.gov/ohio-administrative-code/rule-5160-1-42
 
 **Authorized By:** 5164.02; 5164.32  
 **Amplifies:** 5162.03; 5164.02; 5164.32  
+**Five Year Review Date:** 10/1/2027  
 
 ---
 
@@ -3486,7 +3450,7 @@ URL: https://codes.ohio.gov/ohio-administrative-code/rule-5160-1-60
 
 - View Appendix
 
-- Last updated January 5, 2026 at 8:48 AM
+- Last updated September 11, 2026 at 12:01 PM
 
 ### Supplemental Information
 
@@ -3570,7 +3534,7 @@ URL: https://codes.ohio.gov/ohio-administrative-code/rule-5160-1-60.2
 
 - (E) All notice and hearing provisions set forth in division 5101:6 of the Administrative Code apply to determinations made under this rule.
 
-- Last updated December 22, 2025 at 12:29 PM
+- Last updated September 11, 2026 at 12:01 PM
 
 ### Supplemental Information
 
@@ -3602,7 +3566,7 @@ URL: https://codes.ohio.gov/ohio-administrative-code/rule-5160-1-60.4
 
 - (E) When a claim has been denied because a different procedure code adequately describes a procedure, service, or supply, the provider may submit a new claim with the appropriate code. The new claim will not be submitted for by-report consideration.
 
-- Last updated December 22, 2025 at 12:29 PM
+- Last updated September 11, 2026 at 12:01 PM
 
 ### Supplemental Information
 
@@ -3666,7 +3630,7 @@ URL: https://codes.ohio.gov/ohio-administrative-code/rule-5160-1-70
 
 **Authorized By:** 5162.05, 5164.02, 5167.02  
 **Amplifies:** 5164.02, 5164.03  
-**Five Year Review Date:** 4/29/2021  
+**Five Year Review Date:** 12/31/2020  
 **Prior Effective Dates:** 12/31/2015 (Emer.), 4/29/2016  
 
 ---
